@@ -1,0 +1,2 @@
+Country: GBR  Ratio:50.000000/Hundred  Count:1
+Country: HUN  Ratio:50.000000/Hundred  Count:1

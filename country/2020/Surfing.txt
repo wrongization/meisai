@@ -1,0 +1,26 @@
+Sports: Surfing Years: 8 
+goldratio:0.500000 silverratio:0.300000 bronzeratio:0.200000
+Country: ARG  Total: 0.00/k  Gold: 0.00/k  
+Country: AUS  Total: 0.00/k  Gold: 0.00/k  
+Country: BRA  Total: 0.00/k  Gold: 0.00/k  
+Country: CAN  Total: 0.00/k  Gold: 0.00/k  
+Country: CHI  Total: 0.00/k  Gold: 0.00/k  
+Country: CHN  Total: 0.00/k  Gold: 0.00/k  
+Country: CRC  Total: 0.00/k  Gold: 0.00/k  
+Country: ECU  Total: 0.00/k  Gold: 0.00/k  
+Country: ESA  Total: 0.00/k  Gold: 0.00/k  
+Country: ESP  Total: 0.00/k  Gold: 0.00/k  
+Country: FRA  Total: 0.00/k  Gold: 0.00/k  
+Country: GER  Total: 0.00/k  Gold: 0.00/k  
+Country: INA  Total: 0.00/k  Gold: 0.00/k  
+Country: ISR  Total: 0.00/k  Gold: 0.00/k  
+Country: ITA  Total: 0.00/k  Gold: 0.00/k  
+Country: JPN  Total: 0.00/k  Gold: 0.00/k  
+Country: MAR  Total: 0.00/k  Gold: 0.00/k  
+Country: MEX  Total: 0.00/k  Gold: 0.00/k  
+Country: NCA  Total: 0.00/k  Gold: 0.00/k  
+Country: NZL  Total: 0.00/k  Gold: 0.00/k  
+Country: PER  Total: 0.00/k  Gold: 0.00/k  
+Country: POR  Total: 0.00/k  Gold: 0.00/k  
+Country: RSA  Total: 0.00/k  Gold: 0.00/k  
+Country: USA  Total: 0.00/k  Gold: 0.00/k  

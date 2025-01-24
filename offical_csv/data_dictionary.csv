@@ -1,0 +1,100 @@
+summerOly_medal_counts.csv,,
+variables,explanation,example
+Rank,Rank of country based on total medals won,"1, 2"
+NOC,Name of country as recorded for that Olympics,"China, France"
+Gold,Number of Gold medals the country earned,"0, 1, 2"
+Silver,Number of Silver medals the country earned,"0, 1, 2"
+Bronze,Number of Bronze medals the country earned,"0, 1, 2"
+Total,Number of Total medals the country earned,"0, 1, 2"
+Year,Olympic year,"1896, 1900"
+,,
+,,
+summerOly_hosts.csv,,
+variables,explanation,example
+Year,Olympic year,"1896, 1900"
+Host,"Location where olympics were held (city, country)","St. Louis, United States"
+,,
+,,
+summerOly_programs.csv,,
+variables,explanation,example
+Sport,Sport category,"Aquatics, Cycling"
+Discipline,Discipline within the sport category,"Artistic swimming, Diving"
+Code,Code for the discipline,"SWA, DIV"
+Year,Number of events in disipline for that year,"0, 1"
+Data set of current and discontinued summer program.,,
+Column Descriptors,,
+Sport and Discipline: ,The sports (and disciplines) make up the current and discontinued Summer Olympic Games official program and are listed alphabetically according to the name used by the IOC. ,
+Code: ,Each discipline is marked with a unique 3-character identifier code by the IOC. ,
+Sports Governing Body:,A listing of the sports governing bodies associated with Olympic sports.,
+1896   2028: ,The four number code in each column represents the year of the associated Olympic Games. ,
+Figures in each cell of the associated column indicate the number of events for each sport (or disciplane) contested at the respective Games; a bullet ( ) denotes that the sport was contested as a demonstration or unofficial sport. ,,
+"* The 1906 Intercalated Olympic Games were to be a series of International Olympic Games halfway between what is now known as the Games of the Olympiad. This proposed series of Games was always to be held in Athens and was to have equal status with the international Games. However, the only such Games were held in 1906.",,
+"S1^ The World Baseball Softball Confederation, which currently governs both baseball and softball, was created by a 2013 merger of two former governing bodies   the International Baseball Federation and the International Softball Federation. Baseball and softball were governed separately at all Olympics before 2013.",,
+S2^ AIBA/IBA was the recognised body of boxing until 2023.,,
+"S3^ Sailing and rowing were included in the program of the 1896 Games, but were cancelled due to bad weather.",,
+"S4^ At the time skateboarding was announced as part of the 2020 Summer Games, the sport was governed by the International Skateboarding Federation. That body merged with F d ration Internationale de Roller Sports in September 2017 to form the current World Skate.",,
+"S5^ Before 1924, ice sports like figure skating and ice hockey were held at the Summer Olympic Games. These two sports made their debuts at the 1908 and the 1920 Summer Olympics respectively, but in 1924 they were moved to the first edition of the Winter Olympic Games and became permanent fixtures on the sports program for the Winter Olympics from then on.",,
+Sourced from Wikipedia https://en.wikipedia.org/wiki/Olympic_sports,,
+,,
+,,
+summerOly_athletes.csv,,
+variables,explanation,example
+Name,Athlete name,"Cai Yun, Carl Lewis"
+Sex,Sex of athlete,"F, M"
+Team,Country name as recorded at the Olympics,"China, France"
+NOC,Name of Country (code),"CHN, FRA"
+Year,Olympic year,"1896, 1900"
+Season,Type of Olympics,Summer
+City,City where Olympics were held,"Beijing, Paris"
+Sport,Sport category,"Aquatics, Cycling"
+Event,Event within the sport,Gymnastics Men's Rings
+Medal,Medal earned,"No medal, Gold"
+
+
+summerOly_medal_counts.csv,,
+变量，解释，示例
+排名，根据所获奖牌总数确定的国家排名，"1, 2"
+NOC，该届奥运会记录的国家名称，"中国， 法国"
+金牌，该国获得的金牌数量，"0, 1, 2"
+银牌，该国获得的银牌数量，"0, 1, 2"
+铜牌，该国获得的铜牌数量，"0, 1, 2"
+总计，该国获得的奖牌总数，"0, 1, 2"
+年份，奥运会举办年份，"1896, 190,,
+,,
+summerOly_hosts.csv,,
+变量，解释，示例
+年份，奥运会举办年份，"1896 年，1900 年"
+主办地，奥运会举办地点（城市、国家），"圣路易斯，美国,,
+,,
+summerOly_programs.csv,,
+变量，解释，示例
+运动项目，运动类别，"水上运动、自行车"
+小项，该运动类别中的小项，"花样游泳、跳水"
+代码，该小项的代码，"SWA、DIV"
+年份，该年份该小项的比赛数量，"0、1"
+夏季奥运会当前及已停办项目的数据集。，，
+列描述，，
+运动项目和小项： ，这些运动项目（及小项）构成了夏季奥运会当前及已停办的官方项目，并按照国际奥委会使用的名称按字母顺序排列。,
+国际奥委会为每个项目都标有一个独特的 3 位标识代码。,
+体育管理机构：与奥林匹克运动项目相关的体育管理机构列表。
+1896 - 2028：每列中的四位数字代码代表相关奥运会的年份。,
+相关列中每个单元格内的数字表示在相应届奥运会上每项运动（或分项）的比赛场次；圆点（•）表示该运动作为表演项目或非正式项目进行比赛。,,
+* 1906 年的奥运会间插赛原计划是国际奥林匹克运动会系列赛中处于如今被称为夏季奥运会之间的赛事。这一系列赛事原定于在雅典举行，并且与国际奥运会具有同等地位。然而，此类赛事仅在 1906 年举办过一次。
+S1^ 目前同时管理棒球和垒球的国际棒球垒球联合会成立于 2013 年，由国际棒球联合会和国际垒球联合会合并而成。在 2013 年之前，棒球和垒球在历届奥运会上都是分别管理的。
+S2^ 国际业余拳击联合会/国际拳击协会一直是拳击运动的管理机构，直到 2023 年。
+S3^ 赛艇和皮划艇项目在 1896 年奥运会的赛程中有所安排，但因天气恶劣而取消。
+S4^ 在 2020 年夏季奥运会宣布将滑板纳入比赛项目时，该项目由国际滑板联合会管理。该机构于 2017 年 9 月与国际轮滑联合会合并，成立了现在的世界轮滑联合会。
+S5^ 在 1924 年之前，花样滑冰和冰球等冰上运动都是在夏季奥运会上举行的。这两项运动分别在 1908 年和 1920 年夏季奥运会上首次亮相，但在 1924 年被移至首届冬季奥运会，并从那时起成为冬季奥运会的固定比赛项目。,,
+,,
+summerOly_athletes.csv,,
+变量，解释，示例
+姓名，运动员姓名，"蔡赟， 卡尔·刘易斯"
+性别，运动员性别，"女， 男"
+团队，奥运会记录的国家名称，"中国， 法国"
+NOC，国家名称（代码），"CHN， FRA"
+年份，奥运会年份，"1896， 1900"
+赛季，奥运会类型，夏季
+城市，奥运会举办城市，"北京， 巴黎"
+运动，运动类别，"水上运动， 自行车"
+项目，运动内的项目，体操男子双杠
+奖牌，获得的奖牌，"无奖牌， 金牌
