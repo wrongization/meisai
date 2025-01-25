@@ -1,0 +1,11 @@
+Sports: Baseball__Softball Years: 8 
+goldratio:0.500000 silverratio:0.300000 bronzeratio:0.200000
+Country: AUS  Total: 0.00/k  Gold: 0.00/k  
+Country: CAN  Total: 0.00/k  Gold: 0.00/k  
+Country: DOM  Total: 0.00/k  Gold: 0.00/k  
+Country: ISR  Total: 0.00/k  Gold: 0.00/k  
+Country: ITA  Total: 0.00/k  Gold: 0.00/k  
+Country: JPN  Total: 0.00/k  Gold: 0.00/k  
+Country: KOR  Total: 0.00/k  Gold: 0.00/k  
+Country: MEX  Total: 0.00/k  Gold: 0.00/k  
+Country: USA  Total: 0.00/k  Gold: 0.00/k  

@@ -1,0 +1,24 @@
+l=readtable("test1.csv");
+X1=table2array(l);
+X2=X1(:,1:75);
+Y1=X1(:,76);
+Y2=X1(:,77);
+Y3=X1(:,78);
+k=ones(468,1);
+X=[k,X2];
+X3=sum(X2,2);
+%X3_max=max(X3);
+%X3_min=min(X3);
+%X3_N=(X3-X3_min)/(X3_max-X3_min);
+b=glmfit(X3,Y3, 'binomial', 'logit');
+%[b,bint,r,rint,stats] = regress(Y2,X);
+%X_test=X(43,:);
+
+disp(b);
+%m=[X3,k]*b;
+%m=exp(m);
+%m=m+1;
+%m=1./m;
+%disp(max(m));
+%disp(X_test*b);
+%disp(stats);

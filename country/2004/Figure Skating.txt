@@ -1,0 +1,13 @@
+Sports: Figure Skating Years: 8 
+goldratio:0.500000 silverratio:0.300000 bronzeratio:0.200000
+Country: ARG  Total: 0.00/k  Gold: 0.00/k  
+Country: BEL  Total: 0.00/k  Gold: 0.00/k  
+Country: FIN  Total: 0.00/k  Gold: 0.00/k  
+Country: FRA  Total: 0.00/k  Gold: 0.00/k  
+Country: GBR  Total: 0.00/k  Gold: 0.00/k  
+Country: GER  Total: 0.00/k  Gold: 0.00/k  
+Country: NOR  Total: 0.00/k  Gold: 0.00/k  
+Country: RUS  Total: 0.00/k  Gold: 0.00/k  
+Country: SUI  Total: 0.00/k  Gold: 0.00/k  
+Country: SWE  Total: 0.00/k  Gold: 0.00/k  
+Country: USA  Total: 0.00/k  Gold: 0.00/k  

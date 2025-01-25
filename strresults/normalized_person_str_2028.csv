@@ -1,0 +1,2508 @@
+sport,country,str,count
+"3x3 Basketball",CHN,1,13
+"3x3 Basketball",USA,0.888888888888882,12
+"3x3 Basketball",FRA,0.777777777777774,11
+"3x3 Basketball",JPN,0.444444444444442,8
+"3x3 Basketball",ROC,0.444444444444442,8
+"3x3 Basketball",POL,0.333333333333332,7
+"3x3 Basketball",LAT,0.222222222222222,6
+"3x3 Basketball",NED,0.222222222222222,6
+"3x3 Basketball",SRB,0.222222222222222,6
+"3x3 Basketball",AUS,0.11111111111111,5
+"3x3 Basketball",AZE,0,4
+"3x3 Basketball",BEL,0,4
+"3x3 Basketball",CAN,0,4
+"3x3 Basketball",ESP,0,4
+"3x3 Basketball",GER,0,4
+"3x3 Basketball",ITA,0,4
+"3x3 Basketball",LTU,0,4
+"3x3 Basketball",MGL,0,4
+"3x3 Basketball",ROU,0,4
+"Archery",CHN,1,11
+"Archery",GBR,0.900000000000001,10
+"Archery",KOR,0.900000000000001,10
+"Archery",TPE,0.900000000000001,10
+"Archery",IND,0.800000000000001,9
+"Archery",JPN,0.800000000000001,9
+"Archery",MEX,0.7,8
+"Archery",USA,0.7,8
+"Archery",FRA,0.6,7
+"Archery",INA,0.6,7
+"Archery",NED,0.6,7
+"Archery",AUS,0.500000000000001,6
+"Archery",COL,0.500000000000001,6
+"Archery",ITA,0.500000000000001,6
+"Archery",GER,0.399999999999999,5
+"Archery",KAZ,0.399999999999999,5
+"Archery",TUR,0.399999999999999,5
+"Archery",UKR,0.399999999999999,5
+"Archery",CAN,0.3,4
+"Archery",ESP,0.3,4
+"Archery",MAS,0.3,4
+"Archery",ROC,0.3,4
+"Archery",BAN,0.2,3
+"Archery",BLR,0.2,3
+"Archery",BRA,0.2,3
+"Archery",EGY,0.2,3
+"Archery",ISR,0.2,3
+"Archery",POL,0.2,3
+"Archery",VIE,0.2,3
+"Archery",BHU,0.1,2
+"Archery",CHA,0.1,2
+"Archery",CHI,0.1,2
+"Archery",CZE,0.1,2
+"Archery",DEN,0.1,2
+"Archery",FIN,0.1,2
+"Archery",IRI,0.1,2
+"Archery",LUX,0.1,2
+"Archery",MDA,0.1,2
+"Archery",MGL,0.1,2
+"Archery",SLO,0.1,2
+"Archery",TUN,0.1,2
+"Archery",UZB,0.1,2
+"Archery",ARG,0,1
+"Archery",AUT,0,1
+"Archery",AZE,0,1
+"Archery",BEL,0,1
+"Archery",CUB,0,1
+"Archery",ECU,0,1
+"Archery",ESA,0,1
+"Archery",EST,0,1
+"Archery",GRE,0,1
+"Archery",GUI,0,1
+"Archery",HUN,0,1
+"Archery",ISV,0,1
+"Archery",MAW,0,1
+"Archery",PUR,0,1
+"Archery",ROU,0,1
+"Archery",RSA,0,1
+"Archery",SMR,0,1
+"Archery",SVK,0,1
+"Archery",SWE,0,1
+"Artistic Gymnastics",CHN,1,18
+"Artistic Gymnastics",JPN,0.941176470588237,17
+"Artistic Gymnastics",ITA,0.882352941176471,16
+"Artistic Gymnastics",USA,0.882352941176471,16
+"Artistic Gymnastics",GBR,0.823529411764706,15
+"Artistic Gymnastics",NED,0.764705882352941,14
+"Artistic Gymnastics",ROC,0.647058823529412,12
+"Artistic Gymnastics",CAN,0.588235294117647,11
+"Artistic Gymnastics",ESP,0.588235294117647,11
+"Artistic Gymnastics",GER,0.588235294117647,11
+"Artistic Gymnastics",KOR,0.588235294117647,11
+"Artistic Gymnastics",SUI,0.588235294117647,11
+"Artistic Gymnastics",BRA,0.529411764705882,10
+"Artistic Gymnastics",FRA,0.529411764705882,10
+"Artistic Gymnastics",ROU,0.470588235294119,9
+"Artistic Gymnastics",UKR,0.470588235294119,9
+"Artistic Gymnastics",AUS,0.411764705882353,8
+"Artistic Gymnastics",BEL,0.352941176470588,7
+"Artistic Gymnastics",TUR,0.294117647058823,6
+"Artistic Gymnastics",HUN,0.23529411764706,5
+"Artistic Gymnastics",TPE,0.23529411764706,5
+"Artistic Gymnastics",EGY,0.176470588235294,4
+"Artistic Gymnastics",MEX,0.176470588235294,4
+"Artistic Gymnastics",PHI,0.176470588235294,4
+"Artistic Gymnastics",UZB,0.176470588235294,4
+"Artistic Gymnastics",BUL,0.11764705882353,3
+"Artistic Gymnastics",CRO,0.11764705882353,3
+"Artistic Gymnastics",CZE,0.11764705882353,3
+"Artistic Gymnastics",ISR,0.11764705882353,3
+"Artistic Gymnastics",ARM,0.0588235294117649,2
+"Artistic Gymnastics",AUT,0.0588235294117649,2
+"Artistic Gymnastics",AZE,0.0588235294117649,2
+"Artistic Gymnastics",CHI,0.0588235294117649,2
+"Artistic Gymnastics",COL,0.0588235294117649,2
+"Artistic Gymnastics",IRL,0.0588235294117649,2
+"Artistic Gymnastics",KAZ,0.0588235294117649,2
+"Artistic Gymnastics",MAS,0.0588235294117649,2
+"Artistic Gymnastics",NOR,0.0588235294117649,2
+"Artistic Gymnastics",NZL,0.0588235294117649,2
+"Artistic Gymnastics",RSA,0.0588235294117649,2
+"Artistic Gymnastics",SWE,0.0588235294117649,2
+"Artistic Gymnastics",VIE,0.0588235294117649,2
+"Artistic Gymnastics",ALB,0,1
+"Artistic Gymnastics",ALG,0,1
+"Artistic Gymnastics",ARG,0,1
+"Artistic Gymnastics",BLR,0,1
+"Artistic Gymnastics",CAY,0,1
+"Artistic Gymnastics",CRC,0,1
+"Artistic Gymnastics",CUB,0,1
+"Artistic Gymnastics",CYP,0,1
+"Artistic Gymnastics",DOM,0,1
+"Artistic Gymnastics",GRE,0,1
+"Artistic Gymnastics",HAI,0,1
+"Artistic Gymnastics",HKG,0,1
+"Artistic Gymnastics",INA,0,1
+"Artistic Gymnastics",IND,0,1
+"Artistic Gymnastics",IRI,0,1
+"Artistic Gymnastics",JAM,0,1
+"Artistic Gymnastics",JOR,0,1
+"Artistic Gymnastics",LTU,0,1
+"Artistic Gymnastics",NGR,0,1
+"Artistic Gymnastics",PAN,0,1
+"Artistic Gymnastics",PER,0,1
+"Artistic Gymnastics",POL,0,1
+"Artistic Gymnastics",POR,0,1
+"Artistic Gymnastics",PRK,0,1
+"Artistic Gymnastics",SGP,0,1
+"Artistic Gymnastics",SLO,0,1
+"Artistic Gymnastics",SRI,0,1
+"Artistic Gymnastics",SVK,0,1
+"Artistic Gymnastics",SYR,0,1
+"Artistic Swimming",AUS,1,16
+"Artistic Swimming",CAN,1,16
+"Artistic Swimming",EGY,1,16
+"Artistic Swimming",ITA,0.928571428571428,15
+"Artistic Swimming",CHN,0.857142857142857,14
+"Artistic Swimming",JPN,0.857142857142857,14
+"Artistic Swimming",ESP,0.642857142857142,11
+"Artistic Swimming",USA,0.571428571428571,10
+"Artistic Swimming",FRA,0.499999999999999,9
+"Artistic Swimming",GRE,0.499999999999999,9
+"Artistic Swimming",MEX,0.499999999999999,9
+"Artistic Swimming",ROC,0.428571428571429,8
+"Artistic Swimming",UKR,0.428571428571429,8
+"Artistic Swimming",AUT,0.0714285714285708,3
+"Artistic Swimming",ISR,0.0714285714285708,3
+"Artistic Swimming",BLR,0,2
+"Artistic Swimming",COL,0,2
+"Artistic Swimming",GBR,0,2
+"Artistic Swimming",KAZ,0,2
+"Artistic Swimming",KOR,0,2
+"Artistic Swimming",LIE,0,2
+"Artistic Swimming",NED,0,2
+"Artistic Swimming",NZL,0,2
+"Artistic Swimming",RSA,0,2
+"Athletics",USA,1,213
+"Athletics",GER,0.641509433962264,137
+"Athletics",FRA,0.580188679245283,124
+"Athletics",GBR,0.547169811320755,117
+"Athletics",ITA,0.528301886792453,113
+"Athletics",AUS,0.495283018867925,106
+"Athletics",JPN,0.49056603773585,105
+"Athletics",JAM,0.452830188679245,97
+"Athletics",POL,0.452830188679245,97
+"Athletics",ESP,0.438679245283018,94
+"Athletics",CAN,0.415094339622642,89
+"Athletics",CHN,0.391509433962264,84
+"Athletics",BRA,0.358490566037736,77
+"Athletics",KEN,0.344339622641509,74
+"Athletics",NED,0.316037735849057,68
+"Athletics",UKR,0.259433962264152,56
+"Athletics",BEL,0.25,54
+"Athletics",ETH,0.25,54
+"Athletics",RSA,0.25,54
+"Athletics",CZE,0.231132075471698,50
+"Athletics",SUI,0.231132075471698,50
+"Athletics",IND,0.216981132075471,47
+"Athletics",IRL,0.193396226415095,42
+"Athletics",NGR,0.193396226415095,42
+"Athletics",COL,0.174528301886792,38
+"Athletics",SWE,0.165094339622641,36
+"Athletics",FIN,0.150943396226415,33
+"Athletics",POR,0.150943396226415,33
+"Athletics",TTO,0.150943396226415,33
+"Athletics",MEX,0.141509433962264,31
+"Athletics",BLR,0.136792452830189,30
+"Athletics",NOR,0.136792452830189,30
+"Athletics",TUR,0.136792452830189,30
+"Athletics",UGA,0.136792452830189,30
+"Athletics",CUB,0.127358490566038,28
+"Athletics",HUN,0.127358490566038,28
+"Athletics",BAH,0.117924528301887,26
+"Athletics",GRE,0.117924528301887,26
+"Athletics",ECU,0.113207547169811,25
+"Athletics",NZL,0.113207547169811,25
+"Athletics",MAR,0.0990566037735848,22
+"Athletics",BOT,0.089622641509434,20
+"Athletics",BRN,0.0849056603773585,19
+"Athletics",DEN,0.0754716981132075,17
+"Athletics",LTU,0.0754716981132075,17
+"Athletics",LAT,0.0660377358490566,15
+"Athletics",ROU,0.0660377358490566,15
+"Athletics",DOM,0.0613207547169812,14
+"Athletics",ERI,0.0613207547169812,14
+"Athletics",KAZ,0.0613207547169812,14
+"Athletics",ALG,0.0566037735849057,13
+"Athletics",GHA,0.0566037735849057,13
+"Athletics",AUT,0.0518867924528301,12
+"Athletics",CRO,0.0518867924528301,12
+"Athletics",EOR,0.0518867924528301,12
+"Athletics",QAT,0.0518867924528301,12
+"Athletics",SVK,0.0518867924528301,12
+"Athletics",GUA,0.0471698113207547,11
+"Athletics",ISR,0.0471698113207547,11
+"Athletics",PER,0.0471698113207547,11
+"Athletics",PUR,0.0471698113207547,11
+"Athletics",ARG,0.0424528301886792,10
+"Athletics",CHI,0.0424528301886792,10
+"Athletics",ROC,0.0424528301886792,10
+"Athletics",SLO,0.0424528301886792,10
+"Athletics",UZB,0.0424528301886792,10
+"Athletics",EST,0.0377358490566038,9
+"Athletics",SRB,0.0377358490566038,9
+"Athletics",TPE,0.0377358490566038,9
+"Athletics",CIV,0.0330188679245284,8
+"Athletics",KOR,0.0330188679245284,8
+"Athletics",LBR,0.0330188679245284,8
+"Athletics",VEN,0.0330188679245284,8
+"Athletics",ZAM,0.0330188679245284,8
+"Athletics",BDI,0.0283018867924528,7
+"Athletics",BUL,0.0283018867924528,7
+"Athletics",EGY,0.0283018867924528,7
+"Athletics",MDA,0.0283018867924528,7
+"Athletics",BAR,0.0235849056603773,6
+"Athletics",DJI,0.0235849056603773,6
+"Athletics",GEO,0.0235849056603773,6
+"Athletics",CYP,0.0188679245283019,5
+"Athletics",GAM,0.0188679245283019,5
+"Athletics",GRN,0.0188679245283019,5
+"Athletics",LUX,0.0188679245283019,5
+"Athletics",PAN,0.0188679245283019,5
+"Athletics",SRI,0.0188679245283019,5
+"Athletics",TAN,0.0188679245283019,5
+"Athletics",TUN,0.0188679245283019,5
+"Athletics",ZIM,0.0188679245283019,5
+"Athletics",BOL,0.0141509433962264,4
+"Athletics",GEQ,0.0141509433962264,4
+"Athletics",IRI,0.0141509433962264,4
+"Athletics",IVB,0.0141509433962264,4
+"Athletics",KSA,0.0141509433962264,4
+"Athletics",LES,0.0141509433962264,4
+"Athletics",MGL,0.0141509433962264,4
+"Athletics",NAM,0.0141509433962264,4
+"Athletics",PAR,0.0141509433962264,4
+"Athletics",PHI,0.0141509433962264,4
+"Athletics",RWA,0.0141509433962264,4
+"Athletics",SKN,0.0141509433962264,4
+"Athletics",URU,0.0141509433962264,4
+"Athletics",ALB,0.00943396226415094,3
+"Athletics",BEN,0.00943396226415094,3
+"Athletics",CAY,0.00943396226415094,3
+"Athletics",COM,0.00943396226415094,3
+"Athletics",CRC,0.00943396226415094,3
+"Athletics",GUY,0.00943396226415094,3
+"Athletics",HAI,0.00943396226415094,3
+"Athletics",HKG,0.00943396226415094,3
+"Athletics",KGZ,0.00943396226415094,3
+"Athletics",KUW,0.00943396226415094,3
+"Athletics",LCA,0.00943396226415094,3
+"Athletics",MAD,0.00943396226415094,3
+"Athletics",MAS,0.00943396226415094,3
+"Athletics",MNE,0.00943396226415094,3
+"Athletics",MRI,0.00943396226415094,3
+"Athletics",MTN,0.00943396226415094,3
+"Athletics",NIG,0.00943396226415094,3
+"Athletics",OMA,0.00943396226415094,3
+"Athletics",PAK,0.00943396226415094,3
+"Athletics",PLE,0.00943396226415094,3
+"Athletics",SEN,0.00943396226415094,3
+"Athletics",THA,0.00943396226415094,3
+"Athletics",TUV,0.00943396226415094,3
+"Athletics",AFG,0.00471698113207547,2
+"Athletics",AND,0.00471698113207547,2
+"Athletics",ANG,0.00471698113207547,2
+"Athletics",ANT,0.00471698113207547,2
+"Athletics",ARM,0.00471698113207547,2
+"Athletics",ASA,0.00471698113207547,2
+"Athletics",AZE,0.00471698113207547,2
+"Athletics",BAN,0.00471698113207547,2
+"Athletics",BIH,0.00471698113207547,2
+"Athletics",BIZ,0.00471698113207547,2
+"Athletics",BRU,0.00471698113207547,2
+"Athletics",BUR,0.00471698113207547,2
+"Athletics",CAF,0.00471698113207547,2
+"Athletics",CAM,0.00471698113207547,2
+"Athletics",CGO,0.00471698113207547,2
+"Athletics",CHA,0.00471698113207547,2
+"Athletics",CMR,0.00471698113207547,2
+"Athletics",COD,0.00471698113207547,2
+"Athletics",CPV,0.00471698113207547,2
+"Athletics",DMA,0.00471698113207547,2
+"Athletics",FIJ,0.00471698113207547,2
+"Athletics",GAB,0.00471698113207547,2
+"Athletics",GUI,0.00471698113207547,2
+"Athletics",GUM,0.00471698113207547,2
+"Athletics",HON,0.00471698113207547,2
+"Athletics",INA,0.00471698113207547,2
+"Athletics",ISL,0.00471698113207547,2
+"Athletics",ISV,0.00471698113207547,2
+"Athletics",JOR,0.00471698113207547,2
+"Athletics",KIR,0.00471698113207547,2
+"Athletics",KOS,0.00471698113207547,2
+"Athletics",LBA,0.00471698113207547,2
+"Athletics",MDV,0.00471698113207547,2
+"Athletics",MKD,0.00471698113207547,2
+"Athletics",MLI,0.00471698113207547,2
+"Athletics",MLT,0.00471698113207547,2
+"Athletics",MON,0.00471698113207547,2
+"Athletics",MOZ,0.00471698113207547,2
+"Athletics",NCA,0.00471698113207547,2
+"Athletics",NEP,0.00471698113207547,2
+"Athletics",NRU,0.00471698113207547,2
+"Athletics",PLW,0.00471698113207547,2
+"Athletics",PNG,0.00471698113207547,2
+"Athletics",SEY,0.00471698113207547,2
+"Athletics",SGP,0.00471698113207547,2
+"Athletics",SLE,0.00471698113207547,2
+"Athletics",SSD,0.00471698113207547,2
+"Athletics",STP,0.00471698113207547,2
+"Athletics",SUD,0.00471698113207547,2
+"Athletics",SYR,0.00471698113207547,2
+"Athletics",TGA,0.00471698113207547,2
+"Athletics",TJK,0.00471698113207547,2
+"Athletics",TKM,0.00471698113207547,2
+"Athletics",TLS,0.00471698113207547,2
+"Athletics",TOG,0.00471698113207547,2
+"Athletics",UAE,0.00471698113207547,2
+"Athletics",VIE,0.00471698113207547,2
+"Athletics",VIN,0.00471698113207547,2
+"Athletics",YEM,0.00471698113207547,2
+"Athletics",BER,0,1
+"Athletics",BHU,0,1
+"Athletics",COK,0,1
+"Athletics",ESA,0,1
+"Athletics",FSM,0,1
+"Athletics",GBS,0,1
+"Athletics",IRQ,0,1
+"Athletics",LAO,0,1
+"Athletics",LBN,0,1
+"Athletics",MAW,0,1
+"Athletics",MHL,0,1
+"Athletics",PRK,0,1
+"Athletics",SAM,0,1
+"Athletics",SMR,0,1
+"Athletics",SOL,0,1
+"Athletics",SOM,0,1
+"Athletics",SUR,0,1
+"Athletics",SWZ,0,1
+"Athletics",VAN,0,1
+"Badminton",KOR,1,22
+"Badminton",CHN,0.904761904761905,20
+"Badminton",JPN,0.904761904761905,20
+"Badminton",INA,0.714285714285714,16
+"Badminton",MAS,0.571428571428571,13
+"Badminton",DEN,0.476190476190476,11
+"Badminton",THA,0.476190476190476,11
+"Badminton",FRA,0.428571428571428,10
+"Badminton",USA,0.428571428571428,10
+"Badminton",CAN,0.38095238095238,9
+"Badminton",TPE,0.38095238095238,9
+"Badminton",HKG,0.333333333333334,8
+"Badminton",IND,0.333333333333334,8
+"Badminton",GBR,0.285714285714286,7
+"Badminton",AUS,0.238095238095239,6
+"Badminton",GER,0.238095238095239,6
+"Badminton",BUL,0.142857142857143,4
+"Badminton",CZE,0.142857142857143,4
+"Badminton",NED,0.142857142857143,4
+"Badminton",ROC,0.142857142857143,4
+"Badminton",SGP,0.142857142857143,4
+"Badminton",BRA,0.0952380952380955,3
+"Badminton",EGY,0.0952380952380955,3
+"Badminton",ESP,0.0952380952380955,3
+"Badminton",MEX,0.0952380952380955,3
+"Badminton",NGR,0.0952380952380955,3
+"Badminton",SUI,0.0952380952380955,3
+"Badminton",UKR,0.0952380952380955,3
+"Badminton",VIE,0.0952380952380955,3
+"Badminton",ALG,0.0476190476190477,2
+"Badminton",AUT,0.0476190476190477,2
+"Badminton",AZE,0.0476190476190477,2
+"Badminton",BEL,0.0476190476190477,2
+"Badminton",EOR,0.0476190476190477,2
+"Badminton",EST,0.0476190476190477,2
+"Badminton",GUA,0.0476190476190477,2
+"Badminton",HUN,0.0476190476190477,2
+"Badminton",IRL,0.0476190476190477,2
+"Badminton",ISR,0.0476190476190477,2
+"Badminton",MRI,0.0476190476190477,2
+"Badminton",PER,0.0476190476190477,2
+"Badminton",SRI,0.0476190476190477,2
+"Badminton",TUR,0.0476190476190477,2
+"Badminton",ESA,0,1
+"Badminton",FIN,0,1
+"Badminton",IRI,0,1
+"Badminton",ITA,0,1
+"Badminton",KAZ,0,1
+"Badminton",MDV,0,1
+"Badminton",MLT,0,1
+"Badminton",MYA,0,1
+"Badminton",NEP,0,1
+"Badminton",PAK,0,1
+"Badminton",RSA,0,1
+"Badminton",SUR,0,1
+"Badminton",SVK,0,1
+"Badminton",SWE,0,1
+"Baseball__Softball",JPN,1,39
+"Baseball__Softball",MEX,1,39
+"Baseball__Softball",USA,1,39
+"Baseball__Softball",DOM,0.375000000000003,24
+"Baseball__Softball",ISR,0.375000000000003,24
+"Baseball__Softball",KOR,0.375000000000003,24
+"Baseball__Softball",AUS,0,15
+"Baseball__Softball",CAN,0,15
+"Baseball__Softball",ITA,0,15
+"Basketball",ESP,1,36
+"Basketball",FRA,1,36
+"Basketball",USA,1,36
+"Basketball",AUS,0.958333333333332,35
+"Basketball",JPN,0.875,33
+"Basketball",NGR,0.791666666666666,31
+"Basketball",PUR,0.791666666666666,31
+"Basketball",SRB,0.791666666666666,31
+"Basketball",GER,0.708333333333333,29
+"Basketball",CAN,0.666666666666667,28
+"Basketball",BEL,0.291666666666665,19
+"Basketball",CHN,0.0833333333333319,14
+"Basketball",ARG,0,12
+"Basketball",BRA,0,12
+"Basketball",CZE,0,12
+"Basketball",GRE,0,12
+"Basketball",IRI,0,12
+"Basketball",ITA,0,12
+"Basketball",KOR,0,12
+"Basketball",SLO,0,12
+"Basketball",SSD,0,12
+"Beach Volleyball",USA,1,16
+"Beach Volleyball",BRA,0.785714285714287,13
+"Beach Volleyball",GER,0.571428571428572,10
+"Beach Volleyball",NED,0.571428571428572,10
+"Beach Volleyball",SUI,0.571428571428572,10
+"Beach Volleyball",ITA,0.500000000000001,9
+"Beach Volleyball",AUS,0.428571428571429,8
+"Beach Volleyball",FRA,0.428571428571429,8
+"Beach Volleyball",CAN,0.357142857142857,7
+"Beach Volleyball",ESP,0.357142857142857,7
+"Beach Volleyball",ROC,0.285714285714286,6
+"Beach Volleyball",CZE,0.214285714285715,5
+"Beach Volleyball",JPN,0.214285714285715,5
+"Beach Volleyball",LAT,0.214285714285715,5
+"Beach Volleyball",ARG,0.142857142857142,4
+"Beach Volleyball",CHN,0.142857142857142,4
+"Beach Volleyball",CUB,0.142857142857142,4
+"Beach Volleyball",POL,0.142857142857142,4
+"Beach Volleyball",NOR,0.0714285714285712,3
+"Beach Volleyball",AUT,0,2
+"Beach Volleyball",CHI,0,2
+"Beach Volleyball",EGY,0,2
+"Beach Volleyball",KEN,0,2
+"Beach Volleyball",LTU,0,2
+"Beach Volleyball",MAR,0,2
+"Beach Volleyball",MEX,0,2
+"Beach Volleyball",PAR,0,2
+"Beach Volleyball",QAT,0,2
+"Beach Volleyball",SWE,0,2
+"Boxing",UZB,1,21
+"Boxing",USA,0.850000000000001,18
+"Boxing",GBR,0.8,17
+"Boxing",KAZ,0.8,17
+"Boxing",BRA,0.749999999999999,16
+"Boxing",AUS,0.699999999999999,15
+"Boxing",IND,0.650000000000001,14
+"Boxing",IRL,0.650000000000001,14
+"Boxing",CHN,0.549999999999999,12
+"Boxing",ALG,0.499999999999999,11
+"Boxing",CUB,0.499999999999999,11
+"Boxing",FRA,0.499999999999999,11
+"Boxing",ROC,0.499999999999999,11
+"Boxing",THA,0.450000000000001,10
+"Boxing",TPE,0.450000000000001,10
+"Boxing",TUR,0.450000000000001,10
+"Boxing",COL,0.4,9
+"Boxing",DOM,0.4,9
+"Boxing",ITA,0.4,9
+"Boxing",MAR,0.4,9
+"Boxing",AZE,0.35,8
+"Boxing",BUL,0.35,8
+"Boxing",ESP,0.35,8
+"Boxing",JOR,0.299999999999999,7
+"Boxing",JPN,0.299999999999999,7
+"Boxing",MEX,0.299999999999999,7
+"Boxing",PHI,0.299999999999999,7
+"Boxing",POL,0.299999999999999,7
+"Boxing",UKR,0.299999999999999,7
+"Boxing",CAN,0.250000000000001,6
+"Boxing",ECU,0.250000000000001,6
+"Boxing",GER,0.250000000000001,6
+"Boxing",ARG,0.2,5
+"Boxing",COD,0.2,5
+"Boxing",EGY,0.2,5
+"Boxing",GEO,0.2,5
+"Boxing",MGL,0.2,5
+"Boxing",TJK,0.2,5
+"Boxing",VEN,0.2,5
+"Boxing",ARM,0.15,4
+"Boxing",BLR,0.15,4
+"Boxing",EOR,0.15,4
+"Boxing",HUN,0.15,4
+"Boxing",KEN,0.15,4
+"Boxing",MOZ,0.15,4
+"Boxing",SRB,0.15,4
+"Boxing",VIE,0.15,4
+"Boxing",ZAM,0.15,4
+"Boxing",BEL,0.1,3
+"Boxing",CMR,0.1,3
+"Boxing",CPV,0.1,3
+"Boxing",CRO,0.1,3
+"Boxing",GHA,0.1,3
+"Boxing",NED,0.1,3
+"Boxing",PUR,0.1,3
+"Boxing",ROU,0.1,3
+"Boxing",SAM,0.1,3
+"Boxing",SWE,0.1,3
+"Boxing",UGA,0.1,3
+"Boxing",BOT,0.0499999999999999,2
+"Boxing",FIN,0.0499999999999999,2
+"Boxing",HAI,0.0499999999999999,2
+"Boxing",IRI,0.0499999999999999,2
+"Boxing",KOR,0.0499999999999999,2
+"Boxing",MRI,0.0499999999999999,2
+"Boxing",NGR,0.0499999999999999,2
+"Boxing",NOR,0.0499999999999999,2
+"Boxing",PAN,0.0499999999999999,2
+"Boxing",PER,0.0499999999999999,2
+"Boxing",PRK,0.0499999999999999,2
+"Boxing",SVK,0.0499999999999999,2
+"Boxing",TUN,0.0499999999999999,2
+"Boxing",ANT,0,1
+"Boxing",BDI,0,1
+"Boxing",BRN,0,1
+"Boxing",DEN,0,1
+"Boxing",ESA,0,1
+"Boxing",GUY,0,1
+"Boxing",JAM,0,1
+"Boxing",KGZ,0,1
+"Boxing",KOS,0,1
+"Boxing",MLI,0,1
+"Boxing",MNE,0,1
+"Boxing",NAM,0,1
+"Boxing",NZL,0,1
+"Boxing",PLE,0,1
+"Boxing",PNG,0,1
+"Boxing",SOM,0,1
+"Boxing",SWZ,0,1
+"Boxing",TGA,0,1
+"Boxing",TTO,0,1
+"Breaking",FRA,1,4
+"Breaking",JPN,1,4
+"Breaking",USA,1,4
+"Breaking",CHN,0.666666666666668,3
+"Breaking",NED,0.666666666666668,3
+"Breaking",UKR,0.666666666666668,3
+"Breaking",AUS,0.333333333333334,2
+"Breaking",MAR,0.333333333333334,2
+"Breaking",CAN,0,1
+"Breaking",EOR,0,1
+"Breaking",ITA,0,1
+"Breaking",KAZ,0,1
+"Breaking",KOR,0,1
+"Breaking",LTU,0,1
+"Breaking",POR,0,1
+"Breaking",TPE,0,1
+"Canoe Slalom",ESP,1,8
+"Canoe Slalom",FRA,1,8
+"Canoe Slalom",GER,0.857142857142857,7
+"Canoe Slalom",AUS,0.714285714285713,6
+"Canoe Slalom",CAN,0.714285714285713,6
+"Canoe Slalom",CZE,0.714285714285713,6
+"Canoe Slalom",JPN,0.714285714285713,6
+"Canoe Slalom",CHN,0.571428571428571,5
+"Canoe Slalom",GBR,0.571428571428571,5
+"Canoe Slalom",POL,0.571428571428571,5
+"Canoe Slalom",SLO,0.571428571428571,5
+"Canoe Slalom",SVK,0.571428571428571,5
+"Canoe Slalom",AUT,0.428571428571428,4
+"Canoe Slalom",IRL,0.428571428571428,4
+"Canoe Slalom",ITA,0.428571428571428,4
+"Canoe Slalom",SUI,0.428571428571428,4
+"Canoe Slalom",USA,0.428571428571428,4
+"Canoe Slalom",NED,0.285714285714286,3
+"Canoe Slalom",NZL,0.285714285714286,3
+"Canoe Slalom",BRA,0.142857142857142,2
+"Canoe Slalom",KAZ,0.142857142857142,2
+"Canoe Slalom",MAR,0.142857142857142,2
+"Canoe Slalom",ROC,0.142857142857142,2
+"Canoe Slalom",SEN,0.142857142857142,2
+"Canoe Slalom",SWE,0.142857142857142,2
+"Canoe Slalom",TPE,0.142857142857142,2
+"Canoe Slalom",ALG,0,1
+"Canoe Slalom",AND,0,1
+"Canoe Slalom",ARG,0,1
+"Canoe Slalom",BEL,0,1
+"Canoe Slalom",COK,0,1
+"Canoe Slalom",COM,0,1
+"Canoe Slalom",CRO,0,1
+"Canoe Slalom",EOR,0,1
+"Canoe Slalom",MEX,0,1
+"Canoe Slalom",POR,0,1
+"Canoe Slalom",TUN,0,1
+"Canoe Slalom",UKR,0,1
+"Canoe Sprint",GER,1,28
+"Canoe Sprint",HUN,0.851851851851853,24
+"Canoe Sprint",AUS,0.777777777777779,22
+"Canoe Sprint",CAN,0.740740740740741,21
+"Canoe Sprint",ESP,0.740740740740741,21
+"Canoe Sprint",CHN,0.703703703703705,20
+"Canoe Sprint",POL,0.555555555555556,16
+"Canoe Sprint",ROC,0.518518518518518,15
+"Canoe Sprint",UKR,0.518518518518518,15
+"Canoe Sprint",BLR,0.407407407407408,12
+"Canoe Sprint",NZL,0.407407407407408,12
+"Canoe Sprint",FRA,0.37037037037037,11
+"Canoe Sprint",DEN,0.333333333333334,10
+"Canoe Sprint",KAZ,0.333333333333334,10
+"Canoe Sprint",SRB,0.333333333333334,10
+"Canoe Sprint",JPN,0.25925925925926,8
+"Canoe Sprint",CZE,0.222222222222222,7
+"Canoe Sprint",ITA,0.222222222222222,7
+"Canoe Sprint",POR,0.222222222222222,7
+"Canoe Sprint",BRA,0.185185185185185,6
+"Canoe Sprint",CUB,0.185185185185185,6
+"Canoe Sprint",AIN,0.148148148148148,5
+"Canoe Sprint",LTU,0.148148148148148,5
+"Canoe Sprint",NOR,0.148148148148148,5
+"Canoe Sprint",SVK,0.148148148148148,5
+"Canoe Sprint",SWE,0.148148148148148,5
+"Canoe Sprint",CHI,0.111111111111111,4
+"Canoe Sprint",GBR,0.111111111111111,4
+"Canoe Sprint",ROU,0.111111111111111,4
+"Canoe Sprint",RSA,0.111111111111111,4
+"Canoe Sprint",SAM,0.111111111111111,4
+"Canoe Sprint",TUN,0.111111111111111,4
+"Canoe Sprint",UZB,0.111111111111111,4
+"Canoe Sprint",ARG,0.074074074074074,3
+"Canoe Sprint",BEL,0.074074074074074,3
+"Canoe Sprint",EOR,0.074074074074074,3
+"Canoe Sprint",IRI,0.074074074074074,3
+"Canoe Sprint",MDA,0.074074074074074,3
+"Canoe Sprint",NGR,0.074074074074074,3
+"Canoe Sprint",STP,0.074074074074074,3
+"Canoe Sprint",USA,0.074074074074074,3
+"Canoe Sprint",ANG,0.0370370370370371,2
+"Canoe Sprint",AUT,0.0370370370370371,2
+"Canoe Sprint",BUL,0.0370370370370371,2
+"Canoe Sprint",COK,0.0370370370370371,2
+"Canoe Sprint",CRO,0.0370370370370371,2
+"Canoe Sprint",EGY,0.0370370370370371,2
+"Canoe Sprint",MEX,0.0370370370370371,2
+"Canoe Sprint",NED,0.0370370370370371,2
+"Canoe Sprint",SLO,0.0370370370370371,2
+"Canoe Sprint",ALG,0,1
+"Canoe Sprint",BIZ,0,1
+"Canoe Sprint",COL,0,1
+"Canoe Sprint",GUM,0,1
+"Canoe Sprint",KOR,0,1
+"Canoe Sprint",LAT,0,1
+"Canoe Sprint",MAR,0,1
+"Canoe Sprint",MOZ,0,1
+"Canoe Sprint",SEN,0,1
+"Canoe Sprint",SGP,0,1
+"Canoe Sprint",THA,0,1
+"Canoe Sprint",TPE,0,1
+"Canoe Sprint",URU,0,1
+"Canoe Sprint",VIE,0,1
+"Cycling BMX Freestyle",USA,1,5
+"Cycling BMX Freestyle",GBR,0.749999999999995,4
+"Cycling BMX Freestyle",JPN,0.499999999999999,3
+"Cycling BMX Freestyle",AUS,0.249999999999999,2
+"Cycling BMX Freestyle",CHN,0.249999999999999,2
+"Cycling BMX Freestyle",FRA,0.249999999999999,2
+"Cycling BMX Freestyle",GER,0.249999999999999,2
+"Cycling BMX Freestyle",ROC,0.249999999999999,2
+"Cycling BMX Freestyle",ARG,0,1
+"Cycling BMX Freestyle",BRA,0,1
+"Cycling BMX Freestyle",CAN,0,1
+"Cycling BMX Freestyle",CHI,0,1
+"Cycling BMX Freestyle",COL,0,1
+"Cycling BMX Freestyle",CRC,0,1
+"Cycling BMX Freestyle",CRO,0,1
+"Cycling BMX Freestyle",CZE,0,1
+"Cycling BMX Freestyle",LAT,0,1
+"Cycling BMX Freestyle",RSA,0,1
+"Cycling BMX Freestyle",SUI,0,1
+"Cycling BMX Freestyle",VEN,0,1
+"Cycling BMX Racing",NED,1,9
+"Cycling BMX Racing",USA,1,9
+"Cycling BMX Racing",FRA,0.75,7
+"Cycling BMX Racing",SUI,0.75,7
+"Cycling BMX Racing",COL,0.625,6
+"Cycling BMX Racing",BEL,0.499999999999999,5
+"Cycling BMX Racing",AUS,0.375,4
+"Cycling BMX Racing",GBR,0.375,4
+"Cycling BMX Racing",GER,0.375,4
+"Cycling BMX Racing",LAT,0.375,4
+"Cycling BMX Racing",NZL,0.375,4
+"Cycling BMX Racing",ARG,0.25,3
+"Cycling BMX Racing",BRA,0.25,3
+"Cycling BMX Racing",CAN,0.25,3
+"Cycling BMX Racing",DEN,0.25,3
+"Cycling BMX Racing",ECU,0.25,3
+"Cycling BMX Racing",ITA,0.25,3
+"Cycling BMX Racing",JPN,0.25,3
+"Cycling BMX Racing",ROC,0.25,3
+"Cycling BMX Racing",THA,0.25,3
+"Cycling BMX Racing",RSA,0.124999999999999,2
+"Cycling BMX Racing",ARU,0,1
+"Cycling BMX Racing",CHI,0,1
+"Cycling BMX Racing",MAR,0,1
+"Cycling BMX Racing",NOR,0,1
+"Cycling Mountain Bike",GER,1,7
+"Cycling Mountain Bike",ITA,1,7
+"Cycling Mountain Bike",SUI,1,7
+"Cycling Mountain Bike",USA,0.833333333333334,6
+"Cycling Mountain Bike",BRA,0.666666666666667,5
+"Cycling Mountain Bike",CAN,0.666666666666667,5
+"Cycling Mountain Bike",DEN,0.666666666666667,5
+"Cycling Mountain Bike",NED,0.666666666666667,5
+"Cycling Mountain Bike",BEL,0.500000000000001,4
+"Cycling Mountain Bike",CHN,0.500000000000001,4
+"Cycling Mountain Bike",FRA,0.500000000000001,4
+"Cycling Mountain Bike",GBR,0.500000000000001,4
+"Cycling Mountain Bike",MEX,0.500000000000001,4
+"Cycling Mountain Bike",POL,0.500000000000001,4
+"Cycling Mountain Bike",AUS,0.333333333333333,3
+"Cycling Mountain Bike",AUT,0.333333333333333,3
+"Cycling Mountain Bike",CZE,0.333333333333333,3
+"Cycling Mountain Bike",ESP,0.333333333333333,3
+"Cycling Mountain Bike",JPN,0.333333333333333,3
+"Cycling Mountain Bike",NZL,0.333333333333333,3
+"Cycling Mountain Bike",HUN,0.166666666666666,2
+"Cycling Mountain Bike",ISR,0.166666666666666,2
+"Cycling Mountain Bike",NAM,0.166666666666666,2
+"Cycling Mountain Bike",NOR,0.166666666666666,2
+"Cycling Mountain Bike",ROC,0.166666666666666,2
+"Cycling Mountain Bike",ROU,0.166666666666666,2
+"Cycling Mountain Bike",RSA,0.166666666666666,2
+"Cycling Mountain Bike",UKR,0.166666666666666,2
+"Cycling Mountain Bike",ARG,0,1
+"Cycling Mountain Bike",CHI,0,1
+"Cycling Mountain Bike",COL,0,1
+"Cycling Mountain Bike",EST,0,1
+"Cycling Mountain Bike",FIN,0,1
+"Cycling Mountain Bike",GRE,0,1
+"Cycling Mountain Bike",LAT,0,1
+"Cycling Mountain Bike",LIE,0,1
+"Cycling Mountain Bike",POR,0,1
+"Cycling Mountain Bike",SLO,0,1
+"Cycling Mountain Bike",SWE,0,1
+"Cycling Road",AUS,1,14
+"Cycling Road",ITA,0.923076923076923,13
+"Cycling Road",NED,0.923076923076923,13
+"Cycling Road",ESP,0.846153846153845,12
+"Cycling Road",GER,0.846153846153845,12
+"Cycling Road",BEL,0.769230769230768,11
+"Cycling Road",DEN,0.769230769230768,11
+"Cycling Road",FRA,0.769230769230768,11
+"Cycling Road",GBR,0.769230769230768,11
+"Cycling Road",NOR,0.692307692307691,10
+"Cycling Road",SUI,0.692307692307691,10
+"Cycling Road",SLO,0.615384615384616,9
+"Cycling Road",USA,0.615384615384616,9
+"Cycling Road",CAN,0.538461538461539,8
+"Cycling Road",COL,0.538461538461539,8
+"Cycling Road",POL,0.538461538461539,8
+"Cycling Road",AUT,0.461538461538462,7
+"Cycling Road",RSA,0.461538461538462,7
+"Cycling Road",CZE,0.384615384615384,6
+"Cycling Road",IRL,0.384615384615384,6
+"Cycling Road",NZL,0.384615384615384,6
+"Cycling Road",AIN,0.23076923076923,4
+"Cycling Road",ALG,0.23076923076923,4
+"Cycling Road",CHN,0.23076923076923,4
+"Cycling Road",EOR,0.23076923076923,4
+"Cycling Road",ERI,0.23076923076923,4
+"Cycling Road",JPN,0.23076923076923,4
+"Cycling Road",KAZ,0.23076923076923,4
+"Cycling Road",LUX,0.23076923076923,4
+"Cycling Road",POR,0.23076923076923,4
+"Cycling Road",ROC,0.23076923076923,4
+"Cycling Road",UZB,0.23076923076923,4
+"Cycling Road",CRC,0.153846153846154,3
+"Cycling Road",ECU,0.153846153846154,3
+"Cycling Road",EST,0.153846153846154,3
+"Cycling Road",ISR,0.153846153846154,3
+"Cycling Road",KOR,0.153846153846154,3
+"Cycling Road",LAT,0.153846153846154,3
+"Cycling Road",MEX,0.153846153846154,3
+"Cycling Road",RWA,0.153846153846154,3
+"Cycling Road",SVK,0.153846153846154,3
+"Cycling Road",THA,0.153846153846154,3
+"Cycling Road",TUR,0.153846153846154,3
+"Cycling Road",UKR,0.153846153846154,3
+"Cycling Road",AFG,0.076923076923077,2
+"Cycling Road",BLR,0.076923076923077,2
+"Cycling Road",BRA,0.076923076923077,2
+"Cycling Road",BUR,0.076923076923077,2
+"Cycling Road",CHI,0.076923076923077,2
+"Cycling Road",GRE,0.076923076923077,2
+"Cycling Road",HKG,0.076923076923077,2
+"Cycling Road",IRI,0.076923076923077,2
+"Cycling Road",LTU,0.076923076923077,2
+"Cycling Road",MAR,0.076923076923077,2
+"Cycling Road",MRI,0.076923076923077,2
+"Cycling Road",NAM,0.076923076923077,2
+"Cycling Road",PAN,0.076923076923077,2
+"Cycling Road",SRB,0.076923076923077,2
+"Cycling Road",SWE,0.076923076923077,2
+"Cycling Road",ARG,0,1
+"Cycling Road",AZE,0,1
+"Cycling Road",CRO,0,1
+"Cycling Road",CUB,0,1
+"Cycling Road",CYP,0,1
+"Cycling Road",ETH,0,1
+"Cycling Road",FIN,0,1
+"Cycling Road",GUA,0,1
+"Cycling Road",HUN,0,1
+"Cycling Road",MAS,0,1
+"Cycling Road",MGL,0,1
+"Cycling Road",PAR,0,1
+"Cycling Road",PER,0,1
+"Cycling Road",ROU,0,1
+"Cycling Road",TPE,0,1
+"Cycling Road",TTO,0,1
+"Cycling Road",UAE,0,1
+"Cycling Road",UGA,0,1
+"Cycling Road",URU,0,1
+"Cycling Road",VEN,0,1
+"Cycling Road",VIE,0,1
+"Cycling Road, Cycling Mountain Bike",GBR,1,1
+"Cycling Road, Cycling Mountain Bike",HUN,1,1
+"Cycling Road, Cycling Track",ITA,1,3
+"Cycling Road, Cycling Track",USA,0.5,2
+"Cycling Road, Cycling Track",BEL,0,1
+"Cycling Road, Cycling Track",DEN,0,1
+"Cycling Road, Cycling Track",FRA,0,1
+"Cycling Road, Cycling Track",GER,0,1
+"Cycling Road, Cycling Track",HKG,0,1
+"Cycling Road, Cycling Track",NGR,0,1
+"Cycling Road, Triathlon",USA,1,1
+"Cycling Track",CAN,1,27
+"Cycling Track",GBR,1,27
+"Cycling Track",GER,1,27
+"Cycling Track",NZL,1,27
+"Cycling Track",AUS,0.807692307692307,22
+"Cycling Track",JPN,0.730769230769231,20
+"Cycling Track",FRA,0.692307692307692,19
+"Cycling Track",NED,0.615384615384616,17
+"Cycling Track",ITA,0.576923076923077,16
+"Cycling Track",POL,0.576923076923077,16
+"Cycling Track",BEL,0.5,14
+"Cycling Track",DEN,0.461538461538462,13
+"Cycling Track",USA,0.423076923076923,12
+"Cycling Track",CHN,0.384615384615384,11
+"Cycling Track",IRL,0.384615384615384,11
+"Cycling Track",ROC,0.346153846153846,10
+"Cycling Track",SUI,0.346153846153846,10
+"Cycling Track",AUT,0.192307692307692,6
+"Cycling Track",COL,0.153846153846154,5
+"Cycling Track",HKG,0.153846153846154,5
+"Cycling Track",MEX,0.153846153846154,5
+"Cycling Track",LTU,0.115384615384616,4
+"Cycling Track",POR,0.115384615384616,4
+"Cycling Track",CZE,0.076923076923077,3
+"Cycling Track",KAZ,0.076923076923077,3
+"Cycling Track",MAS,0.076923076923077,3
+"Cycling Track",RSA,0.076923076923077,3
+"Cycling Track",BLR,0.0384615384615385,2
+"Cycling Track",EGY,0.0384615384615385,2
+"Cycling Track",ESP,0.0384615384615385,2
+"Cycling Track",NOR,0.0384615384615385,2
+"Cycling Track",TTO,0.0384615384615385,2
+"Cycling Track",UKR,0.0384615384615385,2
+"Cycling Track",GRE,0,1
+"Cycling Track",INA,0,1
+"Cycling Track",ISR,0,1
+"Cycling Track",KOR,0,1
+"Cycling Track",SUR,0,1
+"Cycling Track",THA,0,1
+"Diving",MEX,1,17
+"Diving",GBR,0.9375,16
+"Diving",USA,0.9375,16
+"Diving",CHN,0.874999999999999,15
+"Diving",AUS,0.75,13
+"Diving",GER,0.75,13
+"Diving",CAN,0.6875,12
+"Diving",FRA,0.624999999999999,11
+"Diving",JPN,0.624999999999999,11
+"Diving",ITA,0.5,9
+"Diving",UKR,0.5,9
+"Diving",KOR,0.4375,8
+"Diving",ROC,0.375,7
+"Diving",EGY,0.312500000000001,6
+"Diving",MAS,0.312500000000001,6
+"Diving",COL,0.25,5
+"Diving",ESP,0.25,5
+"Diving",BRA,0.1875,4
+"Diving",IRL,0.1875,4
+"Diving",DOM,0.125,3
+"Diving",NED,0.125,3
+"Diving",PRK,0.125,3
+"Diving",CUB,0.0624999999999999,2
+"Diving",NOR,0.0624999999999999,2
+"Diving",NZL,0.0624999999999999,2
+"Diving",PUR,0.0624999999999999,2
+"Diving",RSA,0.0624999999999999,2
+"Diving",SGP,0.0624999999999999,2
+"Diving",SWE,0.0624999999999999,2
+"Diving",AUT,0,1
+"Diving",JAM,0,1
+"Diving",LAT,0,1
+"Diving",POL,0,1
+"Diving",SUI,0,1
+"Diving",UZB,0,1
+"Diving",VEN,0,1
+"Equestrian",FRA,1,19
+"Equestrian",GER,1,19
+"Equestrian",USA,0.944444444444444,18
+"Equestrian",BEL,0.888888888888888,17
+"Equestrian",AUS,0.833333333333333,16
+"Equestrian",GBR,0.833333333333333,16
+"Equestrian",SWE,0.833333333333333,16
+"Equestrian",NED,0.777777777777777,15
+"Equestrian",CAN,0.722222222222221,14
+"Equestrian",JPN,0.722222222222221,14
+"Equestrian",BRA,0.666666666666667,13
+"Equestrian",IRL,0.666666666666667,13
+"Equestrian",POL,0.666666666666667,13
+"Equestrian",SUI,0.666666666666667,13
+"Equestrian",ESP,0.611111111111111,12
+"Equestrian",AUT,0.555555555555554,11
+"Equestrian",DEN,0.555555555555554,11
+"Equestrian",ITA,0.555555555555554,11
+"Equestrian",NZL,0.555555555555554,11
+"Equestrian",POR,0.5,10
+"Equestrian",CHN,0.388888888888888,8
+"Equestrian",ISR,0.333333333333334,7
+"Equestrian",MEX,0.333333333333334,7
+"Equestrian",CZE,0.277777777777778,6
+"Equestrian",FIN,0.277777777777778,6
+"Equestrian",MAR,0.277777777777778,6
+"Equestrian",ROC,0.277777777777778,6
+"Equestrian",ARG,0.222222222222221,5
+"Equestrian",EGY,0.166666666666667,4
+"Equestrian",THA,0.166666666666667,4
+"Equestrian",CHI,0.111111111111111,3
+"Equestrian",ECU,0.111111111111111,3
+"Equestrian",KSA,0.111111111111111,3
+"Equestrian",NOR,0.111111111111111,3
+"Equestrian",UAE,0.111111111111111,3
+"Equestrian",COL,0.0555555555555554,2
+"Equestrian",DOM,0.0555555555555554,2
+"Equestrian",EST,0.0555555555555554,2
+"Equestrian",IND,0.0555555555555554,2
+"Equestrian",KOR,0.0555555555555554,2
+"Equestrian",LTU,0.0555555555555554,2
+"Equestrian",RSA,0.0555555555555554,2
+"Equestrian",SYR,0.0555555555555554,2
+"Equestrian",UKR,0.0555555555555554,2
+"Equestrian",VEN,0.0555555555555554,2
+"Equestrian",BLR,0,1
+"Equestrian",GRE,0,1
+"Equestrian",HKG,0,1
+"Equestrian",HUN,0,1
+"Equestrian",JOR,0,1
+"Equestrian",LAT,0,1
+"Equestrian",LUX,0,1
+"Equestrian",MDA,0,1
+"Equestrian",PUR,0,1
+"Equestrian",SGP,0,1
+"Equestrian",SRI,0,1
+"Equestrian",TPE,0,1
+"Fencing",USA,1,37
+"Fencing",ITA,0.944444444444444,35
+"Fencing",FRA,0.805555555555556,30
+"Fencing",JPN,0.75,28
+"Fencing",EGY,0.722222222222223,27
+"Fencing",CHN,0.694444444444444,26
+"Fencing",KOR,0.666666666666667,25
+"Fencing",ROC,0.638888888888888,24
+"Fencing",CAN,0.555555555555555,21
+"Fencing",HUN,0.527777777777778,20
+"Fencing",POL,0.361111111111111,14
+"Fencing",UKR,0.305555555555555,12
+"Fencing",GER,0.249999999999999,10
+"Fencing",HKG,0.249999999999999,10
+"Fencing",TUN,0.194444444444445,8
+"Fencing",ALG,0.166666666666666,7
+"Fencing",SUI,0.138888888888889,6
+"Fencing",VEN,0.138888888888889,6
+"Fencing",CZE,0.111111111111111,5
+"Fencing",EST,0.111111111111111,5
+"Fencing",IRI,0.111111111111111,5
+"Fencing",KAZ,0.111111111111111,5
+"Fencing",BRA,0.0555555555555556,3
+"Fencing",ROU,0.0555555555555556,3
+"Fencing",TUR,0.0555555555555556,3
+"Fencing",UZB,0.0555555555555556,3
+"Fencing",ARG,0.0277777777777777,2
+"Fencing",CHI,0.0277777777777777,2
+"Fencing",CIV,0.0277777777777777,2
+"Fencing",COL,0.0277777777777777,2
+"Fencing",ESP,0.0277777777777777,2
+"Fencing",MAR,0.0277777777777777,2
+"Fencing",MEX,0.0277777777777777,2
+"Fencing",NED,0.0277777777777777,2
+"Fencing",SEN,0.0277777777777777,2
+"Fencing",SGP,0.0277777777777777,2
+"Fencing",AZE,0,1
+"Fencing",BEL,0,1
+"Fencing",BUL,0,1
+"Fencing",CPV,0,1
+"Fencing",CYP,0,1
+"Fencing",GBR,0,1
+"Fencing",GEO,0,1
+"Fencing",GRE,0,1
+"Fencing",IND,0,1
+"Fencing",ISR,0,1
+"Fencing",ISV,0,1
+"Fencing",KEN,0,1
+"Fencing",KGZ,0,1
+"Fencing",KUW,0,1
+"Fencing",LBN,0,1
+"Fencing",NIG,0,1
+"Fencing",PER,0,1
+"Fencing",PHI,0,1
+"Fencing",RSA,0,1
+"Fencing",RWA,0,1
+"Fencing",TPE,0,1
+"Football",JPN,1,79
+"Football",NZL,0.868852459016394,71
+"Football",ESP,0.754098360655738,64
+"Football",FRA,0.721311475409836,62
+"Football",BRA,0.704918032786886,61
+"Football",USA,0.573770491803278,53
+"Football",AUS,0.540983606557377,51
+"Football",EGY,0.37704918032787,41
+"Football",ARG,0.344262295081968,39
+"Football",GER,0.344262295081968,39
+"Football",ZAM,0.213114754098361,31
+"Football",CAN,0.131147540983607,26
+"Football",CHI,0.0655737704918028,22
+"Football",CHN,0.0655737704918028,22
+"Football",GBR,0.0655737704918028,22
+"Football",HON,0.0655737704918028,22
+"Football",KOR,0.0655737704918028,22
+"Football",KSA,0.0655737704918028,22
+"Football",MEX,0.0655737704918028,22
+"Football",NED,0.0655737704918028,22
+"Football",ROU,0.0655737704918028,22
+"Football",SWE,0.0655737704918028,22
+"Football",CIV,0.0491803278688521,21
+"Football",UZB,0.0491803278688521,21
+"Football",COL,0.0163934426229507,19
+"Football",DOM,0.0163934426229507,19
+"Football",GUI,0.0163934426229507,19
+"Football",IRQ,0.0163934426229507,19
+"Football",ISR,0.0163934426229507,19
+"Football",MAR,0.0163934426229507,19
+"Football",MLI,0.0163934426229507,19
+"Football",PAR,0.0163934426229507,19
+"Football",RSA,0.0163934426229507,19
+"Football",NGR,0,18
+"Football",UKR,0,18
+"Golf",USA,1,12
+"Golf",KOR,0.818181818181818,10
+"Golf",GER,0.636363636363637,8
+"Golf",CHN,0.545454545454545,7
+"Golf",DEN,0.545454545454545,7
+"Golf",FIN,0.545454545454545,7
+"Golf",GBR,0.545454545454545,7
+"Golf",JPN,0.545454545454545,7
+"Golf",SWE,0.545454545454545,7
+"Golf",THA,0.545454545454545,7
+"Golf",AUS,0.454545454545455,6
+"Golf",AUT,0.454545454545455,6
+"Golf",CAN,0.454545454545455,6
+"Golf",ESP,0.454545454545455,6
+"Golf",FRA,0.454545454545455,6
+"Golf",IND,0.454545454545455,6
+"Golf",ITA,0.454545454545455,6
+"Golf",NOR,0.454545454545455,6
+"Golf",TPE,0.454545454545455,6
+"Golf",RSA,0.363636363636364,5
+"Golf",BEL,0.272727272727272,4
+"Golf",COL,0.272727272727272,4
+"Golf",CZE,0.272727272727272,4
+"Golf",IRL,0.272727272727272,4
+"Golf",MEX,0.272727272727272,4
+"Golf",PHI,0.272727272727272,4
+"Golf",SUI,0.272727272727272,4
+"Golf",ARG,0.181818181818182,3
+"Golf",MAS,0.181818181818182,3
+"Golf",NZL,0.181818181818182,3
+"Golf",PUR,0.181818181818182,3
+"Golf",CHI,0.0909090909090915,2
+"Golf",MAR,0.0909090909090915,2
+"Golf",SLO,0.0909090909090915,2
+"Golf",ECU,0,1
+"Golf",HKG,0,1
+"Golf",NED,0,1
+"Golf",PAR,0,1
+"Golf",POL,0,1
+"Golf",SGP,0,1
+"Golf",SVK,0,1
+"Golf",VEN,0,1
+"Golf",ZIM,0,1
+"Handball",ESP,1,48
+"Handball",FRA,0.970588235294118,47
+"Handball",HUN,0.970588235294118,47
+"Handball",NOR,0.970588235294118,47
+"Handball",SWE,0.911764705882353,45
+"Handball",GER,0.852941176470589,43
+"Handball",DEN,0.794117647058823,41
+"Handball",BRA,0.735294117647058,39
+"Handball",JPN,0.735294117647058,39
+"Handball",SLO,0.529411764705881,32
+"Handball",ARG,0.38235294117647,27
+"Handball",KOR,0.38235294117647,27
+"Handball",NED,0.294117647058824,24
+"Handball",EGY,0.264705882352942,23
+"Handball",ANG,0.176470588235293,20
+"Handball",BRN,0.0294117647058822,15
+"Handball",MNE,0.0294117647058822,15
+"Handball",POR,0.0294117647058822,15
+"Handball",ROC,0.0294117647058822,15
+"Handball",CRO,0,14
+"Hockey",GBR,1,63
+"Hockey",NED,0.957446808510639,61
+"Hockey",ARG,0.936170212765958,60
+"Hockey",AUS,0.936170212765958,60
+"Hockey",RSA,0.936170212765958,60
+"Hockey",GER,0.914893617021277,59
+"Hockey",ESP,0.872340425531916,57
+"Hockey",BEL,0.74468085106383,51
+"Hockey",NZL,0.638297872340425,46
+"Hockey",JPN,0.595744680851064,44
+"Hockey",IND,0.574468085106383,43
+"Hockey",FRA,0.404255319148936,35
+"Hockey",IRL,0.404255319148936,35
+"Hockey",CHN,0.234042553191489,27
+"Hockey",CAN,0.0425531914893609,18
+"Hockey",USA,0,16
+"Judo",JPN,1,23
+"Judo",BRA,0.863636363636362,20
+"Judo",KOR,0.863636363636362,20
+"Judo",MGL,0.863636363636362,20
+"Judo",FRA,0.818181818181817,19
+"Judo",GER,0.818181818181817,19
+"Judo",ITA,0.727272727272727,17
+"Judo",UZB,0.727272727272727,17
+"Judo",AZE,0.681818181818182,16
+"Judo",ISR,0.636363636363636,15
+"Judo",NED,0.590909090909091,14
+"Judo",ESP,0.545454545454543,13
+"Judo",GEO,0.545454545454543,13
+"Judo",KAZ,0.545454545454543,13
+"Judo",ROC,0.545454545454543,13
+"Judo",TUR,0.499999999999998,12
+"Judo",AUT,0.454545454545453,11
+"Judo",UKR,0.454545454545453,11
+"Judo",CAN,0.409090909090908,10
+"Judo",CHN,0.409090909090908,10
+"Judo",EOR,0.409090909090908,10
+"Judo",HUN,0.409090909090908,10
+"Judo",POR,0.409090909090908,10
+"Judo",GBR,0.363636363636363,9
+"Judo",POL,0.363636363636363,9
+"Judo",SLO,0.363636363636363,9
+"Judo",UAE,0.318181818181818,8
+"Judo",SRB,0.272727272727273,7
+"Judo",TJK,0.272727272727273,7
+"Judo",USA,0.272727272727273,7
+"Judo",CUB,0.227272727272727,6
+"Judo",KOS,0.227272727272727,6
+"Judo",ALG,0.181818181818181,5
+"Judo",BEL,0.181818181818181,5
+"Judo",CRO,0.181818181818181,5
+"Judo",EGY,0.181818181818181,5
+"Judo",SWE,0.181818181818181,5
+"Judo",TUN,0.181818181818181,5
+"Judo",AUS,0.136363636363636,4
+"Judo",BUL,0.136363636363636,4
+"Judo",MAR,0.136363636363636,4
+"Judo",MDA,0.136363636363636,4
+"Judo",ROU,0.136363636363636,4
+"Judo",SUI,0.136363636363636,4
+"Judo",ARG,0.0909090909090907,3
+"Judo",BLR,0.0909090909090907,3
+"Judo",CMR,0.0909090909090907,3
+"Judo",CZE,0.0909090909090907,3
+"Judo",ECU,0.0909090909090907,3
+"Judo",GRE,0.0909090909090907,3
+"Judo",GUI,0.0909090909090907,3
+"Judo",KGZ,0.0909090909090907,3
+"Judo",PUR,0.0909090909090907,3
+"Judo",TKM,0.0909090909090907,3
+"Judo",TPE,0.0909090909090907,3
+"Judo",VEN,0.0909090909090907,3
+"Judo",ANG,0.0454545454545454,2
+"Judo",BEN,0.0454545454545454,2
+"Judo",BIH,0.0454545454545454,2
+"Judo",BUR,0.0454545454545454,2
+"Judo",CHI,0.0454545454545454,2
+"Judo",COD,0.0454545454545454,2
+"Judo",COL,0.0454545454545454,2
+"Judo",CPV,0.0454545454545454,2
+"Judo",CRC,0.0454545454545454,2
+"Judo",DJI,0.0454545454545454,2
+"Judo",DOM,0.0454545454545454,2
+"Judo",EST,0.0454545454545454,2
+"Judo",FIJ,0.0454545454545454,2
+"Judo",FIN,0.0454545454545454,2
+"Judo",GAB,0.0454545454545454,2
+"Judo",GBS,0.0454545454545454,2
+"Judo",GUA,0.0454545454545454,2
+"Judo",GUM,0.0454545454545454,2
+"Judo",HAI,0.0454545454545454,2
+"Judo",IND,0.0454545454545454,2
+"Judo",IRL,0.0454545454545454,2
+"Judo",JAM,0.0454545454545454,2
+"Judo",KIR,0.0454545454545454,2
+"Judo",KSA,0.0454545454545454,2
+"Judo",LBN,0.0454545454545454,2
+"Judo",MAD,0.0454545454545454,2
+"Judo",MEX,0.0454545454545454,2
+"Judo",MKD,0.0454545454545454,2
+"Judo",MON,0.0454545454545454,2
+"Judo",MOZ,0.0454545454545454,2
+"Judo",NEP,0.0454545454545454,2
+"Judo",NZL,0.0454545454545454,2
+"Judo",PAN,0.0454545454545454,2
+"Judo",PLE,0.0454545454545454,2
+"Judo",SAM,0.0454545454545454,2
+"Judo",SLE,0.0454545454545454,2
+"Judo",THA,0.0454545454545454,2
+"Judo",VIE,0.0454545454545454,2
+"Judo",YEM,0.0454545454545454,2
+"Judo",ZAM,0.0454545454545454,2
+"Judo",AFG,0,1
+"Judo",ALB,0,1
+"Judo",ARM,0,1
+"Judo",BDI,0,1
+"Judo",BHU,0,1
+"Judo",BRN,0,1
+"Judo",CAF,0,1
+"Judo",CHA,0,1
+"Judo",CIV,0,1
+"Judo",COM,0,1
+"Judo",CYP,0,1
+"Judo",DEN,0,1
+"Judo",ESA,0,1
+"Judo",GAM,0,1
+"Judo",GHA,0,1
+"Judo",HKG,0,1
+"Judo",HON,0,1
+"Judo",INA,0,1
+"Judo",IRQ,0,1
+"Judo",JOR,0,1
+"Judo",KEN,0,1
+"Judo",LAO,0,1
+"Judo",LAT,0,1
+"Judo",LBA,0,1
+"Judo",LIE,0,1
+"Judo",LTU,0,1
+"Judo",MAW,0,1
+"Judo",MLT,0,1
+"Judo",MNE,0,1
+"Judo",MRI,0,1
+"Judo",NCA,0,1
+"Judo",NIG,0,1
+"Judo",PAK,0,1
+"Judo",PAR,0,1
+"Judo",PER,0,1
+"Judo",PHI,0,1
+"Judo",PRK,0,1
+"Judo",QAT,0,1
+"Judo",RSA,0,1
+"Judo",SEN,0,1
+"Judo",SEY,0,1
+"Judo",SMR,0,1
+"Judo",SRI,0,1
+"Judo",STP,0,1
+"Judo",SUD,0,1
+"Judo",SVK,0,1
+"Judo",SYR,0,1
+"Judo",TAN,0,1
+"Judo",TTO,0,1
+"Judo",URU,0,1
+"Judo",VAN,0,1
+"Karate",JPN,1,8
+"Karate",TUR,0.857142857142857,7
+"Karate",EGY,0.571428571428572,5
+"Karate",ITA,0.571428571428572,5
+"Karate",KAZ,0.571428571428572,5
+"Karate",GER,0.428571428571428,4
+"Karate",USA,0.428571428571428,4
+"Karate",AZE,0.285714285714285,3
+"Karate",FRA,0.285714285714285,3
+"Karate",IRI,0.285714285714285,3
+"Karate",UKR,0.285714285714285,3
+"Karate",VEN,0.285714285714285,3
+"Karate",CHN,0.142857142857143,2
+"Karate",EOR,0.142857142857143,2
+"Karate",ESP,0.142857142857143,2
+"Karate",TPE,0.142857142857143,2
+"Karate",ALG,0,1
+"Karate",AUS,0,1
+"Karate",AUT,0,1
+"Karate",BUL,0,1
+"Karate",CAN,0,1
+"Karate",CRO,0,1
+"Karate",GEO,0,1
+"Karate",HKG,0,1
+"Karate",HUN,0,1
+"Karate",JOR,0,1
+"Karate",KOR,0,1
+"Karate",KSA,0,1
+"Karate",KUW,0,1
+"Karate",LAT,0,1
+"Karate",MAR,0,1
+"Karate",MKD,0,1
+"Karate",NZL,0,1
+"Karate",PER,0,1
+"Karate",SRB,0,1
+"Karate",SUI,0,1
+"Marathon Swimming",FRA,1,6
+"Marathon Swimming",AUS,0.8,5
+"Marathon Swimming",GBR,0.8,5
+"Marathon Swimming",ITA,0.8,5
+"Marathon Swimming",USA,0.8,5
+"Marathon Swimming",ESP,0.6,4
+"Marathon Swimming",GER,0.6,4
+"Marathon Swimming",CAN,0.4,3
+"Marathon Swimming",ECU,0.4,3
+"Marathon Swimming",HUN,0.4,3
+"Marathon Swimming",JPN,0.4,3
+"Marathon Swimming",MEX,0.4,3
+"Marathon Swimming",BRA,0.2,2
+"Marathon Swimming",CZE,0.2,2
+"Marathon Swimming",GRE,0.2,2
+"Marathon Swimming",NAM,0.2,2
+"Marathon Swimming",NED,0.2,2
+"Marathon Swimming",POR,0.2,2
+"Marathon Swimming",ROC,0.2,2
+"Marathon Swimming",RSA,0.2,2
+"Marathon Swimming",ALG,0,1
+"Marathon Swimming",ARG,0,1
+"Marathon Swimming",AUT,0,1
+"Marathon Swimming",CHN,0,1
+"Marathon Swimming",HKG,0,1
+"Marathon Swimming",ISR,0,1
+"Marathon Swimming",KAZ,0,1
+"Marathon Swimming",MON,0,1
+"Marathon Swimming",PER,0,1
+"Marathon Swimming",POL,0,1
+"Marathon Swimming",SGP,0,1
+"Marathon Swimming",SLO,0,1
+"Marathon Swimming",TUN,0,1
+"Marathon Swimming",UKR,0,1
+"Marathon Swimming",VEN,0,1
+"Marathon Swimming, Swimming",GER,1,3
+"Marathon Swimming, Swimming",ITA,0.499999999999997,2
+"Marathon Swimming, Swimming",TUR,0.499999999999997,2
+"Marathon Swimming, Swimming",AUS,0,1
+"Marathon Swimming, Swimming",AUT,0,1
+"Marathon Swimming, Swimming",BRA,0,1
+"Marathon Swimming, Swimming",ESP,0,1
+"Marathon Swimming, Swimming",HUN,0,1
+"Marathon Swimming, Swimming",IRL,0,1
+"Marathon Swimming, Swimming",NOR,0,1
+"Marathon Swimming, Swimming",SWE,0,1
+"Marathon Swimming, Swimming",TUN,0,1
+"Marathon Swimming, Swimming",USA,0,1
+"Modern Pentathlon",EGY,1,7
+"Modern Pentathlon",HUN,1,7
+"Modern Pentathlon",GBR,0.833333333333334,6
+"Modern Pentathlon",GER,0.833333333333334,6
+"Modern Pentathlon",KOR,0.833333333333334,6
+"Modern Pentathlon",CZE,0.666666666666667,5
+"Modern Pentathlon",FRA,0.666666666666667,5
+"Modern Pentathlon",JPN,0.666666666666667,5
+"Modern Pentathlon",MEX,0.666666666666667,5
+"Modern Pentathlon",POL,0.666666666666667,5
+"Modern Pentathlon",CHN,0.500000000000001,4
+"Modern Pentathlon",ITA,0.500000000000001,4
+"Modern Pentathlon",KAZ,0.500000000000001,4
+"Modern Pentathlon",UKR,0.500000000000001,4
+"Modern Pentathlon",AUS,0.333333333333333,3
+"Modern Pentathlon",BLR,0.333333333333333,3
+"Modern Pentathlon",CUB,0.333333333333333,3
+"Modern Pentathlon",ECU,0.333333333333333,3
+"Modern Pentathlon",GUA,0.333333333333333,3
+"Modern Pentathlon",LTU,0.333333333333333,3
+"Modern Pentathlon",ROC,0.333333333333333,3
+"Modern Pentathlon",USA,0.333333333333333,3
+"Modern Pentathlon",ARG,0.166666666666666,2
+"Modern Pentathlon",BRA,0.166666666666666,2
+"Modern Pentathlon",ESP,0.166666666666666,2
+"Modern Pentathlon",SUI,0.166666666666666,2
+"Modern Pentathlon",TUR,0.166666666666666,2
+"Modern Pentathlon",UZB,0.166666666666666,2
+"Modern Pentathlon",AUT,0,1
+"Modern Pentathlon",BUL,0,1
+"Modern Pentathlon",CHI,0,1
+"Modern Pentathlon",IRL,0,1
+"Modern Pentathlon",LAT,0,1
+"Modern Pentathlon",SWE,0,1
+"Modern Pentathlon",THA,0,1
+"Rhythmic Gymnastics",BUL,1,13
+"Rhythmic Gymnastics",ISR,1,13
+"Rhythmic Gymnastics",EGY,0.916666666666666,12
+"Rhythmic Gymnastics",UKR,0.916666666666666,12
+"Rhythmic Gymnastics",UZB,0.916666666666666,12
+"Rhythmic Gymnastics",AUS,0.833333333333333,11
+"Rhythmic Gymnastics",ITA,0.666666666666667,9
+"Rhythmic Gymnastics",BRA,0.583333333333333,8
+"Rhythmic Gymnastics",CHN,0.583333333333333,8
+"Rhythmic Gymnastics",AZE,0.5,7
+"Rhythmic Gymnastics",BLR,0.5,7
+"Rhythmic Gymnastics",ESP,0.5,7
+"Rhythmic Gymnastics",GER,0.5,7
+"Rhythmic Gymnastics",JPN,0.5,7
+"Rhythmic Gymnastics",ROC,0.5,7
+"Rhythmic Gymnastics",USA,0.5,7
+"Rhythmic Gymnastics",FRA,0.416666666666666,6
+"Rhythmic Gymnastics",MEX,0.416666666666666,6
+"Rhythmic Gymnastics",KAZ,0.0833333333333333,2
+"Rhythmic Gymnastics",CPV,0,1
+"Rhythmic Gymnastics",CYP,0,1
+"Rhythmic Gymnastics",GEO,0,1
+"Rhythmic Gymnastics",HUN,0,1
+"Rhythmic Gymnastics",LAO,0,1
+"Rhythmic Gymnastics",ROU,0,1
+"Rhythmic Gymnastics",SLO,0,1
+"Rowing",USA,1,68
+"Rowing",GBR,0.910447761194029,62
+"Rowing",ROU,0.865671641791044,59
+"Rowing",AUS,0.791044776119403,54
+"Rowing",NED,0.761194029850747,52
+"Rowing",ITA,0.671641791044776,46
+"Rowing",NZL,0.611940298507463,42
+"Rowing",GER,0.582089552238805,40
+"Rowing",CHN,0.477611940298508,33
+"Rowing",CAN,0.462686567164179,32
+"Rowing",SUI,0.328358208955224,23
+"Rowing",DEN,0.313432835820896,22
+"Rowing",IRL,0.313432835820896,22
+"Rowing",POL,0.313432835820896,22
+"Rowing",FRA,0.238805970149254,17
+"Rowing",LTU,0.223880597014925,16
+"Rowing",NOR,0.164179104477612,12
+"Rowing",CZE,0.149253731343284,11
+"Rowing",ESP,0.149253731343284,11
+"Rowing",GRE,0.134328358208955,10
+"Rowing",ROC,0.134328358208955,10
+"Rowing",RSA,0.104477611940298,8
+"Rowing",ARG,0.0746268656716417,6
+"Rowing",EST,0.0746268656716417,6
+"Rowing",JPN,0.0746268656716417,6
+"Rowing",UKR,0.0746268656716417,6
+"Rowing",BLR,0.0597014925373134,5
+"Rowing",CRO,0.0597014925373134,5
+"Rowing",AUT,0.044776119402985,4
+"Rowing",CHI,0.044776119402985,4
+"Rowing",EGY,0.044776119402985,4
+"Rowing",IRI,0.044776119402985,4
+"Rowing",PER,0.044776119402985,4
+"Rowing",SRB,0.044776119402985,4
+"Rowing",TUN,0.044776119402985,4
+"Rowing",UZB,0.044776119402985,4
+"Rowing",ALG,0.0298507462686567,3
+"Rowing",BEL,0.0298507462686567,3
+"Rowing",BRA,0.0298507462686567,3
+"Rowing",CUB,0.0298507462686567,3
+"Rowing",INA,0.0298507462686567,3
+"Rowing",IND,0.0298507462686567,3
+"Rowing",MEX,0.0298507462686567,3
+"Rowing",THA,0.0298507462686567,3
+"Rowing",VIE,0.0298507462686567,3
+"Rowing",AIN,0.0149253731343284,2
+"Rowing",BUL,0.0149253731343284,2
+"Rowing",GUA,0.0149253731343284,2
+"Rowing",HKG,0.0149253731343284,2
+"Rowing",HUN,0.0149253731343284,2
+"Rowing",KUW,0.0149253731343284,2
+"Rowing",LBA,0.0149253731343284,2
+"Rowing",MAR,0.0149253731343284,2
+"Rowing",NCA,0.0149253731343284,2
+"Rowing",PAR,0.0149253731343284,2
+"Rowing",PHI,0.0149253731343284,2
+"Rowing",POR,0.0149253731343284,2
+"Rowing",SGP,0.0149253731343284,2
+"Rowing",SLO,0.0149253731343284,2
+"Rowing",SUD,0.0149253731343284,2
+"Rowing",TOG,0.0149253731343284,2
+"Rowing",TUR,0.0149253731343284,2
+"Rowing",URU,0.0149253731343284,2
+"Rowing",VEN,0.0149253731343284,2
+"Rowing",ZIM,0.0149253731343284,2
+"Rowing",ANG,0,1
+"Rowing",AZE,0,1
+"Rowing",BEN,0,1
+"Rowing",BER,0,1
+"Rowing",CIV,0,1
+"Rowing",DOM,0,1
+"Rowing",IRQ,0,1
+"Rowing",KAZ,0,1
+"Rowing",KOR,0,1
+"Rowing",KSA,0,1
+"Rowing",MON,0,1
+"Rowing",NAM,0,1
+"Rowing",NGR,0,1
+"Rowing",PUR,0,1
+"Rowing",QAT,0,1
+"Rowing",SWE,0,1
+"Rowing",TPE,0,1
+"Rowing",TTO,0,1
+"Rowing",UGA,0,1
+"Rowing",VAN,0,1
+"Rugby Sevens",JPN,1,47
+"Rugby Sevens",FIJ,0.914285714285716,44
+"Rugby Sevens",AUS,0.828571428571428,41
+"Rugby Sevens",NZL,0.800000000000001,40
+"Rugby Sevens",USA,0.800000000000001,40
+"Rugby Sevens",CAN,0.714285714285715,37
+"Rugby Sevens",KEN,0.714285714285715,37
+"Rugby Sevens",GBR,0.685714285714286,36
+"Rugby Sevens",RSA,0.628571428571429,34
+"Rugby Sevens",IRL,0.6,33
+"Rugby Sevens",FRA,0.542857142857143,31
+"Rugby Sevens",BRA,0.228571428571429,20
+"Rugby Sevens",CHN,0.228571428571429,20
+"Rugby Sevens",ARG,0.199999999999999,19
+"Rugby Sevens",URU,0.0571428571428568,14
+"Rugby Sevens",KOR,0.0285714285714277,13
+"Rugby Sevens",ROC,0.0285714285714277,13
+"Rugby Sevens",SAM,0,12
+"Sailing",FRA,1,25
+"Sailing",BRA,0.958333333333335,24
+"Sailing",CHN,0.958333333333335,24
+"Sailing",GBR,0.958333333333335,24
+"Sailing",AUS,0.916666666666668,23
+"Sailing",USA,0.916666666666668,23
+"Sailing",ESP,0.875,22
+"Sailing",GER,0.875,22
+"Sailing",NZL,0.750000000000001,19
+"Sailing",ITA,0.708333333333333,18
+"Sailing",JPN,0.708333333333333,18
+"Sailing",NED,0.708333333333333,18
+"Sailing",POL,0.708333333333333,18
+"Sailing",ARG,0.625000000000001,16
+"Sailing",DEN,0.625000000000001,16
+"Sailing",CAN,0.541666666666667,14
+"Sailing",SWE,0.500000000000002,13
+"Sailing",ISR,0.458333333333334,12
+"Sailing",TUR,0.458333333333334,12
+"Sailing",AUT,0.416666666666667,11
+"Sailing",GRE,0.416666666666667,11
+"Sailing",NOR,0.375,10
+"Sailing",SUI,0.375,10
+"Sailing",BEL,0.333333333333335,9
+"Sailing",FIN,0.333333333333335,9
+"Sailing",HKG,0.291666666666667,8
+"Sailing",CRO,0.25,7
+"Sailing",POR,0.25,7
+"Sailing",SLO,0.25,7
+"Sailing",THA,0.25,7
+"Sailing",PER,0.208333333333333,6
+"Sailing",ROC,0.208333333333333,6
+"Sailing",CYP,0.166666666666667,5
+"Sailing",HUN,0.166666666666667,5
+"Sailing",IRL,0.166666666666667,5
+"Sailing",MEX,0.166666666666667,5
+"Sailing",SGP,0.166666666666667,5
+"Sailing",URU,0.166666666666667,5
+"Sailing",ANG,0.125,4
+"Sailing",CZE,0.125,4
+"Sailing",IND,0.125,4
+"Sailing",KOR,0.125,4
+"Sailing",MAS,0.125,4
+"Sailing",TUN,0.125,4
+"Sailing",ALG,0.0833333333333335,3
+"Sailing",GUA,0.0833333333333335,3
+"Sailing",LTU,0.0833333333333335,3
+"Sailing",MOZ,0.0833333333333335,3
+"Sailing",PUR,0.0833333333333335,3
+"Sailing",RSA,0.0833333333333335,3
+"Sailing",SAM,0.0833333333333335,3
+"Sailing",ANT,0.0416666666666669,2
+"Sailing",ARU,0.0416666666666669,2
+"Sailing",ASA,0.0416666666666669,2
+"Sailing",BLR,0.0416666666666669,2
+"Sailing",CHI,0.0416666666666669,2
+"Sailing",EGY,0.0416666666666669,2
+"Sailing",EST,0.0416666666666669,2
+"Sailing",FIJ,0.0416666666666669,2
+"Sailing",LCA,0.0416666666666669,2
+"Sailing",MRI,0.0416666666666669,2
+"Sailing",PNG,0.0416666666666669,2
+"Sailing",BER,0,1
+"Sailing",CAY,0,1
+"Sailing",COL,0,1
+"Sailing",ESA,0,1
+"Sailing",IVB,0,1
+"Sailing",KUW,0,1
+"Sailing",MNE,0,1
+"Sailing",ROU,0,1
+"Sailing",SEY,0,1
+"Sailing",SVK,0,1
+"Sailing",TTO,0,1
+"Sailing",VEN,0,1
+"Shooting",CHN,1,39
+"Shooting",IND,0.81578947368421,32
+"Shooting",KOR,0.763157894736842,30
+"Shooting",USA,0.763157894736842,30
+"Shooting",ITA,0.552631578947368,22
+"Shooting",AUS,0.473684210526316,19
+"Shooting",EGY,0.473684210526316,19
+"Shooting",FRA,0.421052631578947,17
+"Shooting",GER,0.421052631578947,17
+"Shooting",ROC,0.421052631578947,17
+"Shooting",JPN,0.315789473684211,13
+"Shooting",CZE,0.289473684210526,12
+"Shooting",KAZ,0.263157894736842,11
+"Shooting",TPE,0.263157894736842,11
+"Shooting",GBR,0.236842105263158,10
+"Shooting",IRI,0.210526315789473,9
+"Shooting",POL,0.210526315789473,9
+"Shooting",TUR,0.210526315789473,9
+"Shooting",MEX,0.18421052631579,8
+"Shooting",SRB,0.18421052631579,8
+"Shooting",SVK,0.18421052631579,8
+"Shooting",THA,0.18421052631579,8
+"Shooting",UKR,0.18421052631579,8
+"Shooting",NOR,0.157894736842104,7
+"Shooting",SWE,0.157894736842104,7
+"Shooting",CUB,0.131578947368421,6
+"Shooting",GRE,0.131578947368421,6
+"Shooting",KUW,0.131578947368421,6
+"Shooting",SUI,0.131578947368421,6
+"Shooting",ARG,0.105263157894737,5
+"Shooting",AUT,0.105263157894737,5
+"Shooting",CRO,0.105263157894737,5
+"Shooting",CYP,0.105263157894737,5
+"Shooting",DEN,0.105263157894737,5
+"Shooting",FIN,0.105263157894737,5
+"Shooting",GUA,0.105263157894737,5
+"Shooting",HUN,0.105263157894737,5
+"Shooting",MGL,0.105263157894737,5
+"Shooting",BRA,0.0789473684210525,4
+"Shooting",BUL,0.0789473684210525,4
+"Shooting",CAN,0.0789473684210525,4
+"Shooting",ESP,0.0789473684210525,4
+"Shooting",PAK,0.0789473684210525,4
+"Shooting",PER,0.0789473684210525,4
+"Shooting",ALG,0.0526315789473684,3
+"Shooting",BLR,0.0526315789473684,3
+"Shooting",NZL,0.0526315789473684,3
+"Shooting",QAT,0.0526315789473684,3
+"Shooting",VEN,0.0526315789473684,3
+"Shooting",VIE,0.0526315789473684,3
+"Shooting",AIN,0.0263157894736841,2
+"Shooting",ALB,0.0263157894736841,2
+"Shooting",ARU,0.0263157894736841,2
+"Shooting",AZE,0.0263157894736841,2
+"Shooting",BAN,0.0263157894736841,2
+"Shooting",CHI,0.0263157894736841,2
+"Shooting",ECU,0.0263157894736841,2
+"Shooting",EOR,0.0263157894736841,2
+"Shooting",EST,0.0263157894736841,2
+"Shooting",INA,0.0263157894736841,2
+"Shooting",ISL,0.0263157894736841,2
+"Shooting",LAT,0.0263157894736841,2
+"Shooting",MAR,0.0263157894736841,2
+"Shooting",MAS,0.0263157894736841,2
+"Shooting",MKD,0.0263157894736841,2
+"Shooting",MLT,0.0263157894736841,2
+"Shooting",NCA,0.0263157894736841,2
+"Shooting",NEP,0.0263157894736841,2
+"Shooting",OMA,0.0263157894736841,2
+"Shooting",POR,0.0263157894736841,2
+"Shooting",SGP,0.0263157894736841,2
+"Shooting",SMR,0.0263157894736841,2
+"Shooting",TUN,0.0263157894736841,2
+"Shooting",YEM,0.0263157894736841,2
+"Shooting",AFG,0,1
+"Shooting",ARM,0,1
+"Shooting",BEL,0,1
+"Shooting",BHU,0,1
+"Shooting",BIH,0,1
+"Shooting",BRN,0,1
+"Shooting",COL,0,1
+"Shooting",DOM,0,1
+"Shooting",ESA,0,1
+"Shooting",GEO,0,1
+"Shooting",IRL,0,1
+"Shooting",IRQ,0,1
+"Shooting",ISR,0,1
+"Shooting",JOR,0,1
+"Shooting",KGZ,0,1
+"Shooting",KOS,0,1
+"Shooting",KSA,0,1
+"Shooting",LBA,0,1
+"Shooting",LBN,0,1
+"Shooting",LTU,0,1
+"Shooting",MDA,0,1
+"Shooting",MNE,0,1
+"Shooting",MYA,0,1
+"Shooting",PHI,0,1
+"Shooting",PLE,0,1
+"Shooting",PUR,0,1
+"Shooting",ROU,0,1
+"Shooting",SEN,0,1
+"Shooting",SLO,0,1
+"Shooting",SRI,0,1
+"Shooting",UAE,0,1
+"Shooting",UZB,0,1
+"Skateboarding",USA,1,20
+"Skateboarding",BRA,0.842105263157892,17
+"Skateboarding",JPN,0.789473684210525,16
+"Skateboarding",AUS,0.526315789473683,11
+"Skateboarding",FRA,0.473684210526315,10
+"Skateboarding",ESP,0.368421052631578,8
+"Skateboarding",CAN,0.315789473684209,7
+"Skateboarding",CHN,0.210526315789473,5
+"Skateboarding",GBR,0.157894736842105,4
+"Skateboarding",ITA,0.157894736842105,4
+"Skateboarding",RSA,0.157894736842105,4
+"Skateboarding",PUR,0.105263157894736,3
+"Skateboarding",ARG,0.0526315789473686,2
+"Skateboarding",BEL,0.0526315789473686,2
+"Skateboarding",DEN,0.0526315789473686,2
+"Skateboarding",FIN,0.0526315789473686,2
+"Skateboarding",GER,0.0526315789473686,2
+"Skateboarding",NED,0.0526315789473686,2
+"Skateboarding",POR,0.0526315789473686,2
+"Skateboarding",SWE,0.0526315789473686,2
+"Skateboarding",AUT,0,1
+"Skateboarding",CHI,0,1
+"Skateboarding",COL,0,1
+"Skateboarding",MAR,0,1
+"Skateboarding",PER,0,1
+"Skateboarding",PHI,0,1
+"Skateboarding",POL,0,1
+"Skateboarding",SVK,0,1
+"Skateboarding",THA,0,1
+"Sport Climbing",FRA,1,10
+"Sport Climbing",USA,1,10
+"Sport Climbing",CHN,0.777777777777777,8
+"Sport Climbing",ITA,0.555555555555555,6
+"Sport Climbing",JPN,0.555555555555555,6
+"Sport Climbing",RSA,0.555555555555555,6
+"Sport Climbing",GBR,0.444444444444443,5
+"Sport Climbing",GER,0.333333333333333,4
+"Sport Climbing",INA,0.333333333333333,4
+"Sport Climbing",KOR,0.333333333333333,4
+"Sport Climbing",AUS,0.222222222222222,3
+"Sport Climbing",ROC,0.222222222222222,3
+"Sport Climbing",SLO,0.222222222222222,3
+"Sport Climbing",AUT,0.111111111111111,2
+"Sport Climbing",CAN,0.111111111111111,2
+"Sport Climbing",ESP,0.111111111111111,2
+"Sport Climbing",KAZ,0.111111111111111,2
+"Sport Climbing",NZL,0.111111111111111,2
+"Sport Climbing",POL,0.111111111111111,2
+"Sport Climbing",SUI,0.111111111111111,2
+"Sport Climbing",UKR,0.111111111111111,2
+"Sport Climbing",BEL,0,1
+"Sport Climbing",CZE,0,1
+"Sport Climbing",IRI,0,1
+"Surfing",AUS,1,8
+"Surfing",BRA,1,8
+"Surfing",FRA,0.857142857142858,7
+"Surfing",JPN,0.857142857142858,7
+"Surfing",PER,0.714285714285715,6
+"Surfing",USA,0.714285714285715,6
+"Surfing",RSA,0.428571428571429,4
+"Surfing",CRC,0.285714285714286,3
+"Surfing",ESP,0.285714285714286,3
+"Surfing",GER,0.285714285714286,3
+"Surfing",NZL,0.285714285714286,3
+"Surfing",POR,0.142857142857143,2
+"Surfing",ARG,0,1
+"Surfing",CAN,0,1
+"Surfing",CHI,0,1
+"Surfing",CHN,0,1
+"Surfing",ECU,0,1
+"Surfing",ESA,0,1
+"Surfing",INA,0,1
+"Surfing",ISR,0,1
+"Surfing",ITA,0,1
+"Surfing",MAR,0,1
+"Surfing",MEX,0,1
+"Surfing",NCA,0,1
+"Swimming",USA,1,77
+"Swimming",AUS,0.75,58
+"Swimming",ITA,0.710526315789474,55
+"Swimming",JPN,0.61842105263158,48
+"Swimming",GER,0.592105263157894,46
+"Swimming",CHN,0.578947368421052,45
+"Swimming",GBR,0.552631578947368,43
+"Swimming",CAN,0.539473684210526,42
+"Swimming",HUN,0.526315789473684,41
+"Swimming",FRA,0.513157894736842,40
+"Swimming",ROC,0.460526315789474,36
+"Swimming",BRA,0.43421052631579,34
+"Swimming",POL,0.36842105263158,29
+"Swimming",NED,0.31578947368421,25
+"Swimming",ESP,0.289473684210526,23
+"Swimming",ISR,0.263157894736842,21
+"Swimming",KOR,0.25,20
+"Swimming",GRE,0.223684210526316,18
+"Swimming",DEN,0.210526315789474,17
+"Swimming",RSA,0.197368421052632,16
+"Swimming",IRL,0.18421052631579,15
+"Swimming",TUR,0.18421052631579,15
+"Swimming",SWE,0.171052631578947,14
+"Swimming",NZL,0.157894736842105,13
+"Swimming",POR,0.131578947368421,11
+"Swimming",AUT,0.118421052631579,10
+"Swimming",CZE,0.118421052631579,10
+"Swimming",HKG,0.118421052631579,10
+"Swimming",LTU,0.118421052631579,10
+"Swimming",UKR,0.118421052631579,10
+"Swimming",SUI,0.105263157894737,9
+"Swimming",BLR,0.0921052631578947,8
+"Swimming",SRB,0.0921052631578947,8
+"Swimming",ARG,0.0789473684210527,7
+"Swimming",BUL,0.0789473684210527,7
+"Swimming",BEL,0.0657894736842105,6
+"Swimming",EGY,0.0657894736842105,6
+"Swimming",MEX,0.0657894736842105,6
+"Swimming",NOR,0.0657894736842105,6
+"Swimming",ROU,0.0657894736842105,6
+"Swimming",SGP,0.0657894736842105,6
+"Swimming",SLO,0.0657894736842105,6
+"Swimming",FIN,0.0526315789473685,5
+"Swimming",VEN,0.0526315789473685,5
+"Swimming",AIN,0.0394736842105263,4
+"Swimming",ALB,0.0394736842105263,4
+"Swimming",ALG,0.0394736842105263,4
+"Swimming",ANG,0.0394736842105263,4
+"Swimming",ANT,0.0394736842105263,4
+"Swimming",BAH,0.0394736842105263,4
+"Swimming",BAN,0.0394736842105263,4
+"Swimming",BEN,0.0394736842105263,4
+"Swimming",BOL,0.0394736842105263,4
+"Swimming",BRN,0.0394736842105263,4
+"Swimming",BUR,0.0394736842105263,4
+"Swimming",CAM,0.0394736842105263,4
+"Swimming",CAY,0.0394736842105263,4
+"Swimming",CMR,0.0394736842105263,4
+"Swimming",COL,0.0394736842105263,4
+"Swimming",CRC,0.0394736842105263,4
+"Swimming",CRO,0.0394736842105263,4
+"Swimming",CUB,0.0394736842105263,4
+"Swimming",DOM,0.0394736842105263,4
+"Swimming",FIJ,0.0394736842105263,4
+"Swimming",GAB,0.0394736842105263,4
+"Swimming",GEO,0.0394736842105263,4
+"Swimming",GHA,0.0394736842105263,4
+"Swimming",GRN,0.0394736842105263,4
+"Swimming",GUA,0.0394736842105263,4
+"Swimming",GUI,0.0394736842105263,4
+"Swimming",GUY,0.0394736842105263,4
+"Swimming",HAI,0.0394736842105263,4
+"Swimming",IND,0.0394736842105263,4
+"Swimming",JAM,0.0394736842105263,4
+"Swimming",KAZ,0.0394736842105263,4
+"Swimming",KEN,0.0394736842105263,4
+"Swimming",KOS,0.0394736842105263,4
+"Swimming",LAO,0.0394736842105263,4
+"Swimming",LBN,0.0394736842105263,4
+"Swimming",MAD,0.0394736842105263,4
+"Swimming",MAR,0.0394736842105263,4
+"Swimming",MAS,0.0394736842105263,4
+"Swimming",MDV,0.0394736842105263,4
+"Swimming",MHL,0.0394736842105263,4
+"Swimming",MNE,0.0394736842105263,4
+"Swimming",MOZ,0.0394736842105263,4
+"Swimming",MRI,0.0394736842105263,4
+"Swimming",NIG,0.0394736842105263,4
+"Swimming",PAK,0.0394736842105263,4
+"Swimming",PHI,0.0394736842105263,4
+"Swimming",PLW,0.0394736842105263,4
+"Swimming",PNG,0.0394736842105263,4
+"Swimming",PUR,0.0394736842105263,4
+"Swimming",RWA,0.0394736842105263,4
+"Swimming",SEN,0.0394736842105263,4
+"Swimming",SRI,0.0394736842105263,4
+"Swimming",SUD,0.0394736842105263,4
+"Swimming",SVK,0.0394736842105263,4
+"Swimming",SWZ,0.0394736842105263,4
+"Swimming",TJK,0.0394736842105263,4
+"Swimming",TKM,0.0394736842105263,4
+"Swimming",TPE,0.0394736842105263,4
+"Swimming",UGA,0.0394736842105263,4
+"Swimming",UZB,0.0394736842105263,4
+"Swimming",VIN,0.0394736842105263,4
+"Swimming",ZAM,0.0394736842105263,4
+"Swimming",ZIM,0.0394736842105263,4
+"Swimming",ARU,0.0263157894736843,3
+"Swimming",AZE,0.0263157894736843,3
+"Swimming",BAR,0.0263157894736843,3
+"Swimming",BDI,0.0263157894736843,3
+"Swimming",BIH,0.0263157894736843,3
+"Swimming",BOT,0.0263157894736843,3
+"Swimming",BRU,0.0263157894736843,3
+"Swimming",CAF,0.0263157894736843,3
+"Swimming",CGO,0.0263157894736843,3
+"Swimming",COK,0.0263157894736843,3
+"Swimming",CPV,0.0263157894736843,3
+"Swimming",DJI,0.0263157894736843,3
+"Swimming",EOR,0.0263157894736843,3
+"Swimming",ERI,0.0263157894736843,3
+"Swimming",ESA,0.0263157894736843,3
+"Swimming",EST,0.0263157894736843,3
+"Swimming",FSM,0.0263157894736843,3
+"Swimming",GAM,0.0263157894736843,3
+"Swimming",INA,0.0263157894736843,3
+"Swimming",ISV,0.0263157894736843,3
+"Swimming",JOR,0.0263157894736843,3
+"Swimming",KSA,0.0263157894736843,3
+"Swimming",KUW,0.0263157894736843,3
+"Swimming",LBA,0.0263157894736843,3
+"Swimming",LCA,0.0263157894736843,3
+"Swimming",LUX,0.0263157894736843,3
+"Swimming",MAW,0.0263157894736843,3
+"Swimming",MDA,0.0263157894736843,3
+"Swimming",MGL,0.0263157894736843,3
+"Swimming",MKD,0.0263157894736843,3
+"Swimming",MLI,0.0263157894736843,3
+"Swimming",MLT,0.0263157894736843,3
+"Swimming",NCA,0.0263157894736843,3
+"Swimming",NEP,0.0263157894736843,3
+"Swimming",NGR,0.0263157894736843,3
+"Swimming",PAN,0.0263157894736843,3
+"Swimming",PAR,0.0263157894736843,3
+"Swimming",PLE,0.0263157894736843,3
+"Swimming",SEY,0.0263157894736843,3
+"Swimming",SLE,0.0263157894736843,3
+"Swimming",SUR,0.0263157894736843,3
+"Swimming",TGA,0.0263157894736843,3
+"Swimming",THA,0.0263157894736843,3
+"Swimming",TLS,0.0263157894736843,3
+"Swimming",TOG,0.0263157894736843,3
+"Swimming",TTO,0.0263157894736843,3
+"Swimming",URU,0.0263157894736843,3
+"Swimming",VIE,0.0263157894736843,3
+"Swimming",YEM,0.0263157894736843,3
+"Swimming",ARM,0.0131578947368421,2
+"Swimming",ASA,0.0131578947368421,2
+"Swimming",BER,0.0131578947368421,2
+"Swimming",CHI,0.0131578947368421,2
+"Swimming",COD,0.0131578947368421,2
+"Swimming",COM,0.0131578947368421,2
+"Swimming",CYP,0.0131578947368421,2
+"Swimming",DMA,0.0131578947368421,2
+"Swimming",ECU,0.0131578947368421,2
+"Swimming",ETH,0.0131578947368421,2
+"Swimming",GEQ,0.0131578947368421,2
+"Swimming",GUM,0.0131578947368421,2
+"Swimming",HON,0.0131578947368421,2
+"Swimming",IRI,0.0131578947368421,2
+"Swimming",ISL,0.0131578947368421,2
+"Swimming",KGZ,0.0131578947368421,2
+"Swimming",LAT,0.0131578947368421,2
+"Swimming",LIE,0.0131578947368421,2
+"Swimming",MON,0.0131578947368421,2
+"Swimming",PER,0.0131578947368421,2
+"Swimming",QAT,0.0131578947368421,2
+"Swimming",SAM,0.0131578947368421,2
+"Swimming",SMR,0.0131578947368421,2
+"Swimming",SOL,0.0131578947368421,2
+"Swimming",SYR,0.0131578947368421,2
+"Swimming",TAN,0.0131578947368421,2
+"Swimming",TUN,0.0131578947368421,2
+"Swimming",UAE,0.0131578947368421,2
+"Swimming",VAN,0.0131578947368421,2
+"Swimming",AFG,0,1
+"Swimming",BHU,0,1
+"Swimming",CIV,0,1
+"Swimming",GBS,0,1
+"Swimming",IRQ,0,1
+"Swimming",IVB,0,1
+"Swimming",MTN,0,1
+"Swimming",MYA,0,1
+"Swimming",OMA,0,1
+"Swimming",SKN,0,1
+"Table Tennis",TPE,1,12
+"Table Tennis",AUS,0.818181818181818,10
+"Table Tennis",EGY,0.818181818181818,10
+"Table Tennis",GER,0.818181818181818,10
+"Table Tennis",JPN,0.818181818181818,10
+"Table Tennis",SWE,0.818181818181818,10
+"Table Tennis",BRA,0.727272727272728,9
+"Table Tennis",FRA,0.727272727272728,9
+"Table Tennis",KOR,0.727272727272728,9
+"Table Tennis",CHN,0.636363636363637,8
+"Table Tennis",IND,0.636363636363637,8
+"Table Tennis",USA,0.636363636363637,8
+"Table Tennis",HKG,0.545454545454546,7
+"Table Tennis",HUN,0.545454545454546,7
+"Table Tennis",POL,0.545454545454546,7
+"Table Tennis",SGP,0.545454545454546,7
+"Table Tennis",AUT,0.454545454545453,6
+"Table Tennis",POR,0.454545454545453,6
+"Table Tennis",ROU,0.454545454545453,6
+"Table Tennis",CRO,0.363636363636363,5
+"Table Tennis",NGR,0.363636363636363,5
+"Table Tennis",UKR,0.363636363636363,5
+"Table Tennis",CAN,0.272727272727272,4
+"Table Tennis",GBR,0.272727272727272,4
+"Table Tennis",PUR,0.272727272727272,4
+"Table Tennis",SLO,0.272727272727272,4
+"Table Tennis",SRB,0.272727272727272,4
+"Table Tennis",ALG,0.181818181818181,3
+"Table Tennis",ARG,0.181818181818181,3
+"Table Tennis",CHI,0.181818181818181,3
+"Table Tennis",CUB,0.181818181818181,3
+"Table Tennis",CZE,0.181818181818181,3
+"Table Tennis",DEN,0.181818181818181,3
+"Table Tennis",ESP,0.181818181818181,3
+"Table Tennis",IRI,0.181818181818181,3
+"Table Tennis",LUX,0.181818181818181,3
+"Table Tennis",PRK,0.181818181818181,3
+"Table Tennis",ROC,0.181818181818181,3
+"Table Tennis",SVK,0.181818181818181,3
+"Table Tennis",THA,0.181818181818181,3
+"Table Tennis",BEL,0.0909090909090909,2
+"Table Tennis",FIJ,0.0909090909090909,2
+"Table Tennis",ITA,0.0909090909090909,2
+"Table Tennis",KAZ,0.0909090909090909,2
+"Table Tennis",MEX,0.0909090909090909,2
+"Table Tennis",MGL,0.0909090909090909,2
+"Table Tennis",TUN,0.0909090909090909,2
+"Table Tennis",VAN,0.0909090909090909,2
+"Table Tennis",BUL,0,1
+"Table Tennis",CGO,0,1
+"Table Tennis",CMR,0,1
+"Table Tennis",ECU,0,1
+"Table Tennis",GRE,0,1
+"Table Tennis",GUY,0,1
+"Table Tennis",JOR,0,1
+"Table Tennis",KSA,0,1
+"Table Tennis",LBN,0,1
+"Table Tennis",MAD,0,1
+"Table Tennis",MDA,0,1
+"Table Tennis",MDV,0,1
+"Table Tennis",MON,0,1
+"Table Tennis",NED,0,1
+"Table Tennis",NEP,0,1
+"Table Tennis",SEN,0,1
+"Table Tennis",SUI,0,1
+"Table Tennis",SYR,0,1
+"Table Tennis",TOG,0,1
+"Table Tennis",TUR,0,1
+"Taekwondo",CHN,1,12
+"Taekwondo",KOR,0.727272727272727,9
+"Taekwondo",EOR,0.636363636363636,8
+"Taekwondo",GBR,0.545454545454546,7
+"Taekwondo",IRI,0.545454545454546,7
+"Taekwondo",TUR,0.545454545454546,7
+"Taekwondo",AUS,0.454545454545454,6
+"Taekwondo",BRA,0.454545454545454,6
+"Taekwondo",CRO,0.454545454545454,6
+"Taekwondo",EGY,0.454545454545454,6
+"Taekwondo",USA,0.454545454545454,6
+"Taekwondo",UZB,0.454545454545454,6
+"Taekwondo",CIV,0.363636363636363,5
+"Taekwondo",ESP,0.363636363636363,5
+"Taekwondo",FRA,0.363636363636363,5
+"Taekwondo",JOR,0.363636363636363,5
+"Taekwondo",SRB,0.363636363636363,5
+"Taekwondo",DOM,0.272727272727273,4
+"Taekwondo",HUN,0.272727272727273,4
+"Taekwondo",ITA,0.272727272727273,4
+"Taekwondo",JPN,0.272727272727273,4
+"Taekwondo",KAZ,0.272727272727273,4
+"Taekwondo",MAR,0.272727272727273,4
+"Taekwondo",NIG,0.272727272727273,4
+"Taekwondo",ROC,0.272727272727273,4
+"Taekwondo",THA,0.272727272727273,4
+"Taekwondo",TPE,0.272727272727273,4
+"Taekwondo",TUN,0.272727272727273,4
+"Taekwondo",AZE,0.181818181818182,3
+"Taekwondo",CAN,0.181818181818182,3
+"Taekwondo",CUB,0.181818181818182,3
+"Taekwondo",MEX,0.181818181818182,3
+"Taekwondo",ARG,0.0909090909090908,2
+"Taekwondo",BEL,0.0909090909090908,2
+"Taekwondo",BUR,0.0909090909090908,2
+"Taekwondo",CHI,0.0909090909090908,2
+"Taekwondo",COL,0.0909090909090908,2
+"Taekwondo",CZE,0.0909090909090908,2
+"Taekwondo",FIJ,0.0909090909090908,2
+"Taekwondo",GAB,0.0909090909090908,2
+"Taekwondo",GER,0.0909090909090908,2
+"Taekwondo",MKD,0.0909090909090908,2
+"Taekwondo",MLI,0.0909090909090908,2
+"Taekwondo",PNG,0.0909090909090908,2
+"Taekwondo",POL,0.0909090909090908,2
+"Taekwondo",SLO,0.0909090909090908,2
+"Taekwondo",TGA,0.0909090909090908,2
+"Taekwondo",AFG,0,1
+"Taekwondo",AIN,0,1
+"Taekwondo",AUT,0,1
+"Taekwondo",BIH,0,1
+"Taekwondo",BUL,0,1
+"Taekwondo",COD,0,1
+"Taekwondo",CRC,0,1
+"Taekwondo",DEN,0,1
+"Taekwondo",ETH,0,1
+"Taekwondo",GAM,0,1
+"Taekwondo",GBS,0,1
+"Taekwondo",GRE,0,1
+"Taekwondo",HAI,0,1
+"Taekwondo",HKG,0,1
+"Taekwondo",HON,0,1
+"Taekwondo",IRL,0,1
+"Taekwondo",ISR,0,1
+"Taekwondo",KEN,0,1
+"Taekwondo",KSA,0,1
+"Taekwondo",LBN,0,1
+"Taekwondo",LES,0,1
+"Taekwondo",NGR,0,1
+"Taekwondo",NOR,0,1
+"Taekwondo",NZL,0,1
+"Taekwondo",PHI,0,1
+"Taekwondo",PLE,0,1
+"Taekwondo",POR,0,1
+"Taekwondo",PUR,0,1
+"Taekwondo",SEN,0,1
+"Taekwondo",TJK,0,1
+"Taekwondo",TLS,0,1
+"Taekwondo",URU,0,1
+"Taekwondo",VEN,0,1
+"Taekwondo",VIE,0,1
+"Tennis",USA,1,17
+"Tennis",AUS,0.9375,16
+"Tennis",FRA,0.9375,16
+"Tennis",ESP,0.812499999999999,14
+"Tennis",GER,0.749999999999999,13
+"Tennis",ARG,0.687499999999999,12
+"Tennis",ITA,0.687499999999999,12
+"Tennis",JPN,0.687499999999999,12
+"Tennis",CHN,0.625000000000001,11
+"Tennis",CZE,0.5625,10
+"Tennis",GBR,0.5,9
+"Tennis",KAZ,0.5,9
+"Tennis",BRA,0.4375,8
+"Tennis",ROC,0.4375,8
+"Tennis",AIN,0.375,7
+"Tennis",CAN,0.375,7
+"Tennis",CRO,0.375,7
+"Tennis",NED,0.375,7
+"Tennis",POL,0.375,7
+"Tennis",TPE,0.375,7
+"Tennis",ROU,0.312499999999999,6
+"Tennis",SRB,0.312499999999999,6
+"Tennis",UKR,0.312499999999999,6
+"Tennis",BEL,0.249999999999999,5
+"Tennis",IND,0.249999999999999,5
+"Tennis",AUT,0.187499999999999,4
+"Tennis",COL,0.187499999999999,4
+"Tennis",GRE,0.187499999999999,4
+"Tennis",NZL,0.187499999999999,4
+"Tennis",POR,0.187499999999999,4
+"Tennis",SVK,0.187499999999999,4
+"Tennis",BLR,0.125000000000001,3
+"Tennis",CHI,0.125000000000001,3
+"Tennis",EGY,0.125000000000001,3
+"Tennis",SUI,0.125000000000001,3
+"Tennis",DEN,0.0624999999999998,2
+"Tennis",HUN,0.0624999999999998,2
+"Tennis",LAT,0.0624999999999998,2
+"Tennis",LBN,0.0624999999999998,2
+"Tennis",MEX,0.0624999999999998,2
+"Tennis",TUN,0.0624999999999998,2
+"Tennis",BOL,0,1
+"Tennis",BUL,0,1
+"Tennis",EST,0,1
+"Tennis",GEO,0,1
+"Tennis",KOR,0,1
+"Tennis",MNE,0,1
+"Tennis",NOR,0,1
+"Tennis",PAR,0,1
+"Tennis",PER,0,1
+"Tennis",SWE,0,1
+"Tennis",UZB,0,1
+"Trampoline Gymnastics",CHN,1,7
+"Trampoline Gymnastics",JPN,0.666666666666665,5
+"Trampoline Gymnastics",GBR,0.499999999999999,4
+"Trampoline Gymnastics",ROC,0.499999999999999,4
+"Trampoline Gymnastics",AIN,0.333333333333333,3
+"Trampoline Gymnastics",AUS,0.333333333333333,3
+"Trampoline Gymnastics",CAN,0.333333333333333,3
+"Trampoline Gymnastics",FRA,0.333333333333333,3
+"Trampoline Gymnastics",USA,0.333333333333333,3
+"Trampoline Gymnastics",BLR,0.166666666666666,2
+"Trampoline Gymnastics",BRA,0.166666666666666,2
+"Trampoline Gymnastics",EGY,0.166666666666666,2
+"Trampoline Gymnastics",ESP,0.166666666666666,2
+"Trampoline Gymnastics",NZL,0.166666666666666,2
+"Trampoline Gymnastics",POR,0.166666666666666,2
+"Trampoline Gymnastics",AUT,0,1
+"Trampoline Gymnastics",AZE,0,1
+"Trampoline Gymnastics",COL,0,1
+"Trampoline Gymnastics",GEO,0,1
+"Trampoline Gymnastics",GER,0,1
+"Trampoline Gymnastics",KAZ,0,1
+"Trampoline Gymnastics",MEX,0,1
+"Trampoline Gymnastics",UKR,0,1
+"Triathlon",AUS,1,9
+"Triathlon",SUI,1,9
+"Triathlon",ESP,0.875,8
+"Triathlon",GBR,0.875,8
+"Triathlon",GER,0.875,8
+"Triathlon",USA,0.875,8
+"Triathlon",CAN,0.750000000000001,7
+"Triathlon",FRA,0.750000000000001,7
+"Triathlon",ITA,0.750000000000001,7
+"Triathlon",MEX,0.750000000000001,7
+"Triathlon",BEL,0.625000000000001,6
+"Triathlon",HUN,0.625000000000001,6
+"Triathlon",NED,0.625000000000001,6
+"Triathlon",NOR,0.625000000000001,6
+"Triathlon",POR,0.625000000000001,6
+"Triathlon",AUT,0.500000000000001,5
+"Triathlon",BRA,0.500000000000001,5
+"Triathlon",NZL,0.500000000000001,5
+"Triathlon",RSA,0.500000000000001,5
+"Triathlon",JPN,0.375000000000001,4
+"Triathlon",ROC,0.375000000000001,4
+"Triathlon",BER,0.249999999999999,3
+"Triathlon",CHI,0.249999999999999,3
+"Triathlon",CHN,0.125,2
+"Triathlon",CZE,0.125,2
+"Triathlon",DEN,0.125,2
+"Triathlon",HKG,0.125,2
+"Triathlon",IRL,0.125,2
+"Triathlon",ISR,0.125,2
+"Triathlon",LUX,0.125,2
+"Triathlon",MAR,0.125,2
+"Triathlon",ARG,0,1
+"Triathlon",AZE,0,1
+"Triathlon",BAR,0,1
+"Triathlon",COL,0,1
+"Triathlon",ECU,0,1
+"Triathlon",EGY,0,1
+"Triathlon",EST,0,1
+"Triathlon",GUM,0,1
+"Triathlon",ISL,0,1
+"Triathlon",KAZ,0,1
+"Triathlon",MRI,0,1
+"Triathlon",POL,0,1
+"Triathlon",ROU,0,1
+"Triathlon",SWE,0,1
+"Triathlon",SYR,0,1
+"Triathlon",TOG,0,1
+"Triathlon",UKR,0,1
+"Volleyball",JPN,1,39
+"Volleyball",ITA,0.962962962962963,38
+"Volleyball",BRA,0.925925925925926,37
+"Volleyball",USA,0.74074074074074,32
+"Volleyball",SRB,0.703703703703703,31
+"Volleyball",ARG,0.629629629629629,29
+"Volleyball",POL,0.629629629629629,29
+"Volleyball",FRA,0.592592592592592,28
+"Volleyball",ROC,0.444444444444445,24
+"Volleyball",CAN,0.333333333333334,21
+"Volleyball",KEN,0.296296296296297,20
+"Volleyball",TUR,0.296296296296297,20
+"Volleyball",CHN,0.185185185185185,17
+"Volleyball",DOM,0.185185185185185,17
+"Volleyball",EGY,0.0370370370370371,13
+"Volleyball",GER,0.0370370370370371,13
+"Volleyball",NED,0.0370370370370371,13
+"Volleyball",SLO,0.0370370370370371,13
+"Volleyball",IRI,0,12
+"Volleyball",KOR,0,12
+"Volleyball",TUN,0,12
+"Volleyball",VEN,0,12
+"Water Polo",AUS,1,44
+"Water Polo",USA,0.806451612903226,38
+"Water Polo",HUN,0.741935483870968,36
+"Water Polo",ESP,0.709677419354838,35
+"Water Polo",ITA,0.67741935483871,34
+"Water Polo",GRE,0.612903225806451,32
+"Water Polo",JPN,0.612903225806451,32
+"Water Polo",FRA,0.419354838709678,26
+"Water Polo",RSA,0.419354838709678,26
+"Water Polo",SRB,0.258064516129032,21
+"Water Polo",CRO,0.225806451612903,20
+"Water Polo",MNE,0.225806451612903,20
+"Water Polo",NED,0.225806451612903,20
+"Water Polo",CAN,0.193548387096775,19
+"Water Polo",CHN,0.193548387096775,19
+"Water Polo",KAZ,0,13
+"Water Polo",ROC,0,13
+"Water Polo",ROU,0,13
+"Weightlifting",USA,1,13
+"Weightlifting",CHN,0.749999999999999,10
+"Weightlifting",KOR,0.749999999999999,10
+"Weightlifting",JPN,0.666666666666667,9
+"Weightlifting",VEN,0.666666666666667,9
+"Weightlifting",AUS,0.583333333333334,8
+"Weightlifting",DOM,0.583333333333334,8
+"Weightlifting",CAN,0.500000000000001,7
+"Weightlifting",COL,0.500000000000001,7
+"Weightlifting",FRA,0.500000000000001,7
+"Weightlifting",INA,0.500000000000001,7
+"Weightlifting",ITA,0.500000000000001,7
+"Weightlifting",TPE,0.500000000000001,7
+"Weightlifting",NZL,0.416666666666666,6
+"Weightlifting",TKM,0.416666666666666,6
+"Weightlifting",UZB,0.416666666666666,6
+"Weightlifting",ARM,0.333333333333333,5
+"Weightlifting",CUB,0.333333333333333,5
+"Weightlifting",ECU,0.333333333333333,5
+"Weightlifting",EGY,0.333333333333333,5
+"Weightlifting",GBR,0.333333333333333,5
+"Weightlifting",GEO,0.333333333333333,5
+"Weightlifting",MEX,0.333333333333333,5
+"Weightlifting",TUN,0.333333333333333,5
+"Weightlifting",BRA,0.25,4
+"Weightlifting",BUL,0.25,4
+"Weightlifting",ESP,0.25,4
+"Weightlifting",GER,0.25,4
+"Weightlifting",PHI,0.25,4
+"Weightlifting",POL,0.25,4
+"Weightlifting",THA,0.25,4
+"Weightlifting",EOR,0.166666666666667,3
+"Weightlifting",IRI,0.166666666666667,3
+"Weightlifting",MAD,0.166666666666667,3
+"Weightlifting",TUR,0.166666666666667,3
+"Weightlifting",VIE,0.166666666666667,3
+"Weightlifting",AIN,0.0833333333333333,2
+"Weightlifting",ALB,0.0833333333333333,2
+"Weightlifting",AUT,0.0833333333333333,2
+"Weightlifting",BEL,0.0833333333333333,2
+"Weightlifting",BLR,0.0833333333333333,2
+"Weightlifting",BRN,0.0833333333333333,2
+"Weightlifting",CHI,0.0833333333333333,2
+"Weightlifting",CMR,0.0833333333333333,2
+"Weightlifting",CZE,0.0833333333333333,2
+"Weightlifting",IND,0.0833333333333333,2
+"Weightlifting",KAZ,0.0833333333333333,2
+"Weightlifting",KIR,0.0833333333333333,2
+"Weightlifting",KSA,0.0833333333333333,2
+"Weightlifting",LAT,0.0833333333333333,2
+"Weightlifting",MDA,0.0833333333333333,2
+"Weightlifting",MGL,0.0833333333333333,2
+"Weightlifting",NGR,0.0833333333333333,2
+"Weightlifting",PNG,0.0833333333333333,2
+"Weightlifting",QAT,0.0833333333333333,2
+"Weightlifting",ROC,0.0833333333333333,2
+"Weightlifting",ROU,0.0833333333333333,2
+"Weightlifting",SAM,0.0833333333333333,2
+"Weightlifting",UKR,0.0833333333333333,2
+"Weightlifting",ALG,0,1
+"Weightlifting",ASA,0,1
+"Weightlifting",BOT,0,1
+"Weightlifting",EST,0,1
+"Weightlifting",GHA,0,1
+"Weightlifting",GRE,0,1
+"Weightlifting",GUA,0,1
+"Weightlifting",GUM,0,1
+"Weightlifting",HUN,0,1
+"Weightlifting",IRQ,0,1
+"Weightlifting",ISR,0,1
+"Weightlifting",KGZ,0,1
+"Weightlifting",LBA,0,1
+"Weightlifting",LBN,0,1
+"Weightlifting",LTU,0,1
+"Weightlifting",MAR,0,1
+"Weightlifting",MAS,0,1
+"Weightlifting",MHL,0,1
+"Weightlifting",MLT,0,1
+"Weightlifting",MRI,0,1
+"Weightlifting",NCA,0,1
+"Weightlifting",NED,0,1
+"Weightlifting",NOR,0,1
+"Weightlifting",NRU,0,1
+"Weightlifting",OMA,0,1
+"Weightlifting",PAK,0,1
+"Weightlifting",PER,0,1
+"Weightlifting",PLE,0,1
+"Weightlifting",SOL,0,1
+"Weightlifting",SWE,0,1
+"Weightlifting",SYR,0,1
+"Weightlifting",TGA,0,1
+"Weightlifting",VAN,0,1
+"Wrestling",USA,1,27
+"Wrestling",JPN,0.846153846153847,23
+"Wrestling",CHN,0.73076923076923,20
+"Wrestling",IRI,0.692307692307692,19
+"Wrestling",EGY,0.653846153846154,18
+"Wrestling",ROC,0.615384615384616,17
+"Wrestling",TUR,0.615384615384616,17
+"Wrestling",CUB,0.576923076923077,16
+"Wrestling",KAZ,0.576923076923077,16
+"Wrestling",AZE,0.538461538461539,15
+"Wrestling",MGL,0.538461538461539,15
+"Wrestling",GER,0.500000000000001,14
+"Wrestling",ALG,0.461538461538463,13
+"Wrestling",UKR,0.461538461538463,13
+"Wrestling",UZB,0.423076923076922,12
+"Wrestling",BUL,0.384615384615384,11
+"Wrestling",GEO,0.384615384615384,11
+"Wrestling",IND,0.384615384615384,11
+"Wrestling",KGZ,0.384615384615384,11
+"Wrestling",POL,0.384615384615384,11
+"Wrestling",HUN,0.346153846153846,10
+"Wrestling",TUN,0.346153846153846,10
+"Wrestling",CAN,0.307692307692308,9
+"Wrestling",NGR,0.307692307692308,9
+"Wrestling",ARM,0.269230769230769,8
+"Wrestling",BLR,0.269230769230769,8
+"Wrestling",COL,0.230769230769231,7
+"Wrestling",MDA,0.230769230769231,7
+"Wrestling",ROU,0.230769230769231,7
+"Wrestling",SRB,0.230769230769231,7
+"Wrestling",KOR,0.153846153846155,5
+"Wrestling",PUR,0.153846153846155,5
+"Wrestling",SWE,0.153846153846155,5
+"Wrestling",BRA,0.115384615384616,4
+"Wrestling",ECU,0.115384615384616,4
+"Wrestling",FRA,0.115384615384616,4
+"Wrestling",GRE,0.115384615384616,4
+"Wrestling",ITA,0.115384615384616,4
+"Wrestling",MEX,0.115384615384616,4
+"Wrestling",VEN,0.115384615384616,4
+"Wrestling",ALB,0.0769230769230771,3
+"Wrestling",EOR,0.0769230769230771,3
+"Wrestling",EST,0.0769230769230771,3
+"Wrestling",FIN,0.0769230769230771,3
+"Wrestling",GBS,0.0769230769230771,3
+"Wrestling",LTU,0.0769230769230771,3
+"Wrestling",PRK,0.0769230769230771,3
+"Wrestling",AIN,0.0384615384615384,2
+"Wrestling",AUS,0.0384615384615384,2
+"Wrestling",CHI,0.0384615384615384,2
+"Wrestling",CRO,0.0384615384615384,2
+"Wrestling",DEN,0.0384615384615384,2
+"Wrestling",MAR,0.0384615384615384,2
+"Wrestling",MKD,0.0384615384615384,2
+"Wrestling",SVK,0.0384615384615384,2
+"Wrestling",ARG,0,1
+"Wrestling",BRN,0,1
+"Wrestling",CMR,0,1
+"Wrestling",CZE,0,1
+"Wrestling",DOM,0,1
+"Wrestling",GUI,0,1
+"Wrestling",GUM,0,1
+"Wrestling",HON,0,1
+"Wrestling",KOS,0,1
+"Wrestling",LAT,0,1
+"Wrestling",NOR,0,1
+"Wrestling",NZL,0,1
+"Wrestling",PER,0,1
+"Wrestling",RSA,0,1
+"Wrestling",SAM,0,1
+"Wrestling",SEN,0,1
+"Wrestling",SMR,0,1
+"Wrestling",SUI,0,1
+"Wrestling",TJK,0,1
