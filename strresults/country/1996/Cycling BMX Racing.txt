@@ -1,0 +1,27 @@
+Sports: Cycling BMX Racing Years: 8 
+goldratio:0.500000 silverratio:0.300000 bronzeratio:0.200000
+Country: ARG  Total: 0.00/k  Gold: 0.00/k  
+Country: ARU  Total: 0.00/k  Gold: 0.00/k  
+Country: AUS  Total: 0.00/k  Gold: 0.00/k  
+Country: BEL  Total: 0.00/k  Gold: 0.00/k  
+Country: BRA  Total: 0.00/k  Gold: 0.00/k  
+Country: CAN  Total: 0.00/k  Gold: 0.00/k  
+Country: CHI  Total: 0.00/k  Gold: 0.00/k  
+Country: COL  Total: 0.00/k  Gold: 0.00/k  
+Country: DEN  Total: 0.00/k  Gold: 0.00/k  
+Country: ECU  Total: 0.00/k  Gold: 0.00/k  
+Country: FRA  Total: 0.00/k  Gold: 0.00/k  
+Country: GBR  Total: 0.00/k  Gold: 0.00/k  
+Country: GER  Total: 0.00/k  Gold: 0.00/k  
+Country: ITA  Total: 0.00/k  Gold: 0.00/k  
+Country: JPN  Total: 0.00/k  Gold: 0.00/k  
+Country: LAT  Total: 0.00/k  Gold: 0.00/k  
+Country: MAR  Total: 0.00/k  Gold: 0.00/k  
+Country: NED  Total: 0.00/k  Gold: 0.00/k  
+Country: NOR  Total: 0.00/k  Gold: 0.00/k  
+Country: NZL  Total: 0.00/k  Gold: 0.00/k  
+Country: ROC  Total: 0.00/k  Gold: 0.00/k  
+Country: RSA  Total: 0.00/k  Gold: 0.00/k  
+Country: SUI  Total: 0.00/k  Gold: 0.00/k  
+Country: THA  Total: 0.00/k  Gold: 0.00/k  
+Country: USA  Total: 0.00/k  Gold: 0.00/k  

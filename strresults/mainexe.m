@@ -1,4 +1,4 @@
-for yy = 2028:-4:1992
+for yy = 2028:-4:2020
 current_year = yy;
 filename = 'athfix.csv';
 opts = detectImportOptions(filename);
@@ -7,7 +7,13 @@ A = readtable(filename, opts);
 a1 = 0.5;
 a2 = 0.3;
 a3 = 0.2;
+%gold 0.35 0.55 0.15
+%total 0.3325 0.1396 0.5278
+%ORIGIN  0.6870 0.1865 0.1265;
 
+c1 = 0.35;
+c2 = 0.55;
+c3 = 0.15;
 country_STR = table();
 years = A{:, 5};
 teams = A{:, 3};
@@ -174,8 +180,6 @@ end
 years_of_interest = [current_year - 8, current_year - 4];
 athletes_before2 = ismember(years, years_of_interest) & ~ismember(years, setdiff(unique(years), years_of_interest));
 athletes_names_before2 = names(athletes_before2);
-disp('Athletes who participated only in 2020 or 2024:');
-disp(athletes_names_before2);
 unique_athletes = unique(names(athletes_before2));
 country_sport_count = table();
 for i = 1:length(unique_sports)
@@ -232,7 +236,6 @@ data.str = normalized_str;
 data = sortrows(data, {'sport', 'str'}, {'ascend', 'descend'});
 outname = sprintf('normalized_person_str_%d.csv', current_year);
 writetable(data, outname);
-disp(data);
 
 
 outname = sprintf('normalized_country_str_%d.csv', current_year);
@@ -252,9 +255,6 @@ opts = detectImportOptions(filename);
 opts.VariableNamesLine = 1;
 C = readtable(filename, opts);
 mergedTable = outerjoin(A, B, 'Keys', {'sport', 'country'}, 'MergeKeys', true);
-c1 = 0.6870;
-c2 = 0.1865;
-c3 = 0.1265;
 host_city = C{C{:, 1} == current_year, 2};
 if isempty(host_city)
     error('No host city found for the current year.');
@@ -270,7 +270,9 @@ final = country_str * c1 + person_str * c2;
 final(strcmp(country, MAIN)) = final(strcmp(country, MAIN)) + c3;
 Table = table(sport, country, country_str, person_str, final);
 Table = sortrows(Table, {'sport', 'final'}, {'ascend', 'descend'});
-%writetable(Table, 'mergedTable.csv');
+writetable(Table, 'mergedTable.csv');
+
+
 table1 = Table;
 uniqueValues1 = unique(table1{:, 1});
 uniqueValues2 = unique(table1{:, 2});

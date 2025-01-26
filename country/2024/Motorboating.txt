@@ -1,4 +1,0 @@
-Sports: Motorboating Years: 8 
-goldratio:0.500000 silverratio:0.300000 bronzeratio:0.200000
-Country: FRA  Total: 0.00/k  Gold: 0.00/k  
-Country: GBR  Total: 0.00/k  Gold: 0.00/k  

@@ -1,0 +1,15 @@
+Sports: Softball Years: 8 
+goldratio:0.500000 silverratio:0.300000 bronzeratio:0.200000
+Country: AUS  Total: 0.00/k  Gold: 0.00/k  
+Country: CAN  Total: 0.00/k  Gold: 0.00/k  
+Country: CHN  Total: 0.00/k  Gold: 0.00/k  
+Country: CUB  Total: 0.00/k  Gold: 0.00/k  
+Country: GRE  Total: 0.00/k  Gold: 0.00/k  
+Country: ITA  Total: 0.00/k  Gold: 0.00/k  
+Country: JPN  Total: 0.00/k  Gold: 0.00/k  
+Country: NED  Total: 0.00/k  Gold: 0.00/k  
+Country: NZL  Total: 0.00/k  Gold: 0.00/k  
+Country: PUR  Total: 0.00/k  Gold: 0.00/k  
+Country: TPE  Total: 0.00/k  Gold: 0.00/k  
+Country: USA  Total: 0.00/k  Gold: 0.00/k  
+Country: VEN  Total: 0.00/k  Gold: 0.00/k  
