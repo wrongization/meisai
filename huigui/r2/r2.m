@@ -4,7 +4,7 @@ c1=0;
 c2=0;
 c3=0;
 c_step=0.05;
-maxchange_years=16;
+maxchange_years=32;
 
 changeyear=maxchange_years;
 filename1= sprintf('normalized_country_str_%d.csv', predit_year);

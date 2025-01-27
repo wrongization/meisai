@@ -1,5 +1,5 @@
 % Define the number of top countries to select
-numTopCountries = 40;
+numTopCountries = 234;
 
 filename = '2028_sortedbytotal_3_final.csv';
 opts = detectImportOptions(filename);
@@ -78,3 +78,11 @@ disp(finalTableGold);
 % Write the tables to CSV files
 writetable(finalTableTotal, ['Top', num2str(numTopCountries), '_TotalMedals.csv']);
 writetable(finalTableGold, ['Top', num2str(numTopCountries), '_GoldMedals.csv']);
+
+% Convert the data to column format
+data = [0.63889, 0, 0, 0.7368, 0.55, 0.63824, 0.60714, 1, 0.59286, 0.55, 0.65, 1, 0, 0.90629, 0.87591, 0.65, 0.59286, 0.55741, 0.55, 0, 0, 0.55, 0.65, 0.65, 0.63333, 0.61154, 0, 0.6, 0.65, 0.59231, 0.74774, 0.64444, 0.55, 0.79536, 0.55, 0.90941, 0.65, 0.55, 0.55, 0.55, 0.55, 0.55, 0.61747, 0.59286, 0.55, 0.63, 0.55, 0.65372, 0, 0.55, 0, 0.6, 0.55, 0.85141, 0.55, 0.63, 0.7918, 0.8069, 0.65, 0.55, 0.65, 0.62143, 1, 0.55, 0.61364, 0.59545, 1, 0.58333, 0.55, 0.6375, 0.55, 0.90407, 0.98065, 0.73288, 1];
+columnData = reshape(data, [], 1);
+
+% Display the column data
+disp('Column Data:');
+disp(columnData);
